@@ -1,0 +1,32 @@
+{
+    "places": [
+     {
+            "title": "Арт стиль",
+            "description": "<div style=\"text-align:center; width: 250px;\"><src=\"http://taishettoday.ru/imges/map/art.jpg\"/><br>Режим работы:с 9.30 - 19.00</div>",
+            "lat": 55.939116,  
+            "lng": 98.020279,
+            "icon": "imges/icon/textiles.png"
+        },
+        {
+            "title": "Альпы",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 19.00 ВС с 10.00-15.00 т.7 (39563)2-22-46</div>",
+            "lat": 55.937663,  
+            "lng": 98.018483,
+            "icon": "imges/icon/textiles.png"
+        },
+        {
+            "title": "Байкал по Транспортной",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: т.7 (39563)5-09-20</div>",
+            "lat": 55.937406,   
+            "lng": 98.012662,
+            "icon": "imges/icon/textiles.png"
+        },
+        {
+            "title": "Байкал по Гагарина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/baical_map.jpg\"/><br>Режим работы:с 10.00 - 19.00 без выходных<br>Адрес:ул. Гагарина, 125а</div>",
+            "lat": 55.935043,   
+            "lng": 98.028402,
+            "icon": "imges/icon/textiles.png"
+        }
+    ]
+}

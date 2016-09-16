@@ -1,0 +1,150 @@
+{
+	"places": [{
+		"title": "Медицинский центр 'Мария'",
+		"description": "<div style=\"text-align:center; width: 250px;\"><br> Режим работы: </div>",
+		"lat": 55.939391,
+		"lng": 98.009142,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Городская больница",
+		"description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/bolnicha_map.jpg\"/><br>Режим работы:пн-пт 8:00–18:00; т.24267</div>",
+		"lat": 55.933209,
+		"lng": 97.986091,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Городская поликлиника",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы: т.8 (39563)2-42-93</div>",
+		"lat": 55.939080,
+		"lng": 97.994004,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Тайшетская станция скорой медицинской помощи",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы: </div>",
+		"lat": 55.922497,
+		"lng": 97.981080,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "СПИД лаборатория, Бактериологическая лаборатори",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+		"lat": 55.918090,
+		"lng": 98.001125,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Кожно-венерологический стационар",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+		"lat": 55.921783,
+		"lng": 98.009356,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Детская поликлиника",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы:т.22740</div>",
+		"lat": 55.935667,
+		"lng": 98.026636,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Инфекционное отделение",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+		"lat": 55.935976,
+		"lng": 98.027299,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Хирургическое, гинекологическое отделение",
+		"description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+		"lat": 55.936184,
+		"lng": 98.027780,
+		"icon": "imges/icon/hospital.pngg"
+	}, 
+	{
+		"title": "Железнодорожная больница",
+		"description": "<div style=\"text-align:center\"><src=\"http://taishettoday.ru/imges/map/rgd.jpg\"/><br>Режим работы:ПН-ПТ: с 7.30-19.00 в СБ: с 8.00-14.00 ВС: Выходной</div>",
+		"lat": 55.935842,
+		"lng": 98.026323,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Медицинский центр",
+		"description": "<div style=\"text-align:center\">т.22002;52222</div>",
+		"lat": 55.936970,
+		"lng": 98.013880,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Кабинет гинекологии",
+		"description": "<div style=\"text-align:center\"><src=\"http://taishettoday.ru/imges/map/gen.jpg\"/><br>Режим работы:с 9.00 - 15.00;выходной СБ ВС; обед с 12.00 - 13.00 т.2-26-38</div>",
+		"lat": 55.937361,
+		"lng": 98.030105,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Улыбка",
+		"description": "<div style=\"text-align:center\"><div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/ylubka_map.jpg\"/><br>Режим работы:ВТ-ПТ 9.00-16.00 СБ с 9.00 - 15.00 ВС-ПН выходной<br>т.25556,89140041919</div>",
+		"lat": 55.926490,
+		"lng": 98.007786,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Зубной врач",
+		"description": "<div style=\"text-align:center\">Режим работы:</div>",
+		"lat": 55.942392,
+		"lng": 98.004943,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Медиконд",
+		"description": "<div style=\"text-align:center\">img src=\"http://taishettoday.ru/imges/map/medicond_map.jpg\"/><br>Режим работы: с 10.00-17.00; CБ по записи; ВС выходной; т.20056; 8(9836)949394</div>",
+		"lat": 55.943094,
+		"lng": 98.027034,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Психиатрическое отделени",
+		"description": "<div style=\"text-align:center\">Режим работы: </div>",
+		"lat": 55.935913,
+		"lng": 98.048805,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Детская поликлиника. Женская поликлиника",
+		"description": "<div style=\"text-align:center\">Режим работы: </div>",
+		"lat": 55.942040,
+		"lng": 98.027977,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Частный хирург Эскулап",
+		"description": "<div style=\"text-align:center\">Режим работы:+7 (39563) 2-32-10</div>",
+		"lat": 55.939422,
+		"lng": 98.028715,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Кабинет ультрозвукового исследования",
+		"description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/uzi_map.jpg\"/><br>Режим работы:c9.00-15.00 Выходной СБ ВС<br> +7 (39563) 2-35-74</div>",
+		"lat": 55.935962,
+		"lng": 98.024316,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "Врач - невролог",
+		"description": "<div style=\"text-align:center\">Режим работы:с 9.00 - 15.00 Выходной: ВС<br>тел. для записи 89149392786</div>",
+		"lat": 55.933470,
+		"lng": 98.022929,
+		"icon": "imges/icon/hospital.png"
+	}, 
+	{
+		"title": "МУЗ Тайшетская ЦРБ стомотологическая поликлиника",
+		"description": "<div style=\"text-align:center\">Режим работы:<br>тел. для записи 2-01-98</div>",
+		"lat": 55.938517,
+		"lng": 98.009473,
+		"icon": "imges/icon/hospital.png"
+	}
+		]
+}

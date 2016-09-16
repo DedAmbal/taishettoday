@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "title": "Ростелеком по Ленина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/rostelL_map.jpg\"/><br>Режим работы:с 8.00 - 17.00 обед:13.00-14.00;СБ ВС выходной </div>",
+            "lat":55.935814,      
+            "lng":97.991255,
+            "icon":"imges/icon/wifi.png" 
+        },
+        {
+            "title": "Ростелеком",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 8.00 - 17.00 обед:13.00-14.00;СБ ВС выходной </div>",
+            "lat":55.935653,       
+            "lng":98.016207,
+            "icon":"imges/icon/wifi.png" 
+        },
+        {
+            "title": "Стрела",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:т.20850 </div>",
+            "lat":55.935594,      
+            "lng":98.025142,
+            "icon":"imges/icon/wifi.png" 
+        },
+         {
+            "title": "ООО УИ ТРК",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00-19.00 обед 13.00-14.00 т.22090 </div>",
+            "lat":55.934211,      
+            "lng":98.026687,
+            "icon":"imges/icon/wifi.png" 
+        }    
+         ]
+}

@@ -1,0 +1,25 @@
+{
+    "places": [
+{
+            "title": "Государственный пенсионный фонд",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ЧТ с 9:00–18:00 ПТ 9:00–16:45 т.+7 (39563) 2-10-46</div>",
+            "lat":55.937127, 
+            "lng":98.022700,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "НПФ Благоденствие",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ВТ с 9.00–13:00 СР 9.00–13.00 ЧТ с 9.00 - 18.00 т.+7 (39563) 2-18-42</div>",
+            "lat":55.934626, 
+            "lng":98.024668,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Пенсионный фонд Российской Федерации",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ЧТ с 9.00–18.00 ПТ 9.00–16.45 СБ ВС выходные обед с 13.00 до 13.45</div>",
+            "lat":55.934649,  
+            "lng":98.020717,
+            "icon": "imges/icon/administration.png"
+           }
+              ]
+}

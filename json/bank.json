@@ -1,0 +1,165 @@
+{
+    "places": [
+        {
+            "title": "Сбербанк главное отделение",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/bank1_map.jpg\"/><br>Режим работы:пн,вт 9:00–19:00; ср 9:00–18:00; чт,пт 9:00–19:00; сб 9:00–16:00<br>т.8 (800) 555-55-50, +7 (39563) 2-03-49</div>",
+            "lat": 55.937624, 
+            "lng": 98.019736,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Сбербанк на вокзале",
+            "description": "<div style=\"text-align:center\">Режим работы:пн-пт 9:00–18:00; сб 10:00–15:00<br>т.8 (800) 555-55-50, +7 (39563) 2-35-44</div>",
+            "lat":55.941312,
+            "lng":98.001358,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Сбербанк по Советской",
+            "description": "<div style=\"text-align:center\">Режим работы:</div>",
+            "lat": 55.935251, 
+            "lng": 97.990694,
+            "icon":"imges/icon/bank.png"
+        },
+       {
+            "title": "Востсибтранском банк",
+            "description": "<div style=\"text-align:center\">Режим работы:с 9.00-18.00 СБ: с 9.00-13.00 ВС: выходной<br>т.+7 (39563) 2-36-52</div>",
+            "lat": 55.943340, 
+            "lng": 98.025952,
+            "icon":"imges/icon/bank.png" 
+        },
+        {
+            "title": "Совком банк по Транспортной",
+            "description": "<div style=\"text-align:center\">Режим работы:с 9.00-18.00 СБ: с 9.00-17.00 ВС: 10.00 - 16.00</div>",
+            "lat": 55.937670, 
+            "lng": 98.011882,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Совком банк по Старобазарной",
+            "description": "<div style=\"text-align:center\">Режим работы:с 9.00-18.00 СБ: с 9.00-17.00 ВС: 10.00 - 16.00</div>",
+            "lat": 55.940952, 
+            "lng": 98.004363,
+            "icon":"imges/icon/bank.png"
+        },
+         {
+            "title": "Востсибтранском банк",
+            "description": "<div style=\"text-align:center\">Режим работы:с 9.00-18.00 обед:13.00 - 14.00 СБ: с 9.00-13.00 ВС: выходной<br>т.+7 (39563) 5-06-13</div>",
+            "lat": 55.937916,  
+            "lng": 98.011206,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Братский АНКБ",
+            "description": "<div style=\"text-align:center\">Режим работы:пн-пт 9:00–18:00, перерыв 13:00–14:00<br>т. +7 (39563) 2-67-35</div>",
+            "lat": 55.934910,   
+            "lng": 98.049192,
+            "icon":"imges/icon/bank.png"
+        },
+         {
+            "title": "ВостСибтранскомбанк",
+            "description": "<div style=\"text-align:center\">Режим работы:<br>+7 (39563) 2-21-70</div>",
+            "lat": 55.933154,   
+            "lng": 98.028211,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Расчетно кассовый центр",
+            "description": "<div style=\"text-align:center\">Режим работы:</div>",
+            "lat": 55.934062,    
+            "lng": 98.029301,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Совкомбанк по Гагарина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/sofcombank_map.jpg\"/><br>Режим работы:с 9.00-18.00 СБ: с 9.00-17.00 ВС: 10.00 - 16.00<br> т.8 (800) 100-00-06</div>",
+            "lat":55.934544,     
+            "lng":98.028476,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Восточный экспресс банк",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/ecspres_map.jpg\"/><br>Режим работы:пн-пт 9:00–18:00<br>т.8 (800) 100-71-00</div>",
+            "lat":55.935155,     
+            "lng":98.028115, 
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Займи до зарплаты",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/zaim_map.jpg\"/><br>Режим работы:10:00–19:00<br>т 20111</div>",
+            "lat":55.935073,      
+            "lng":98.028327, 
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.937302, 
+            "lng": 98.020441,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.937448,  
+            "lng": 98.019422,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.933245, 
+            "lng": 98.040348,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.933245, 
+            "lng": 98.040348,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.944145,  
+            "lng": 98.008265,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.935817,  
+            "lng": 98.017642,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат Россельхоз банка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.934449,  
+            "lng": 98.030079,
+            "icon":"imges/icon/bank.png"
+        },
+         {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.939254,  
+            "lng": 98.000844,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.940179,   
+            "lng": 98.004866,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.939911,   
+            "lng": 98.003377,
+            "icon":"imges/icon/bank.png"
+        }
+    ]
+}

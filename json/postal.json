@@ -1,0 +1,34 @@
+{
+    "places": [
+        {
+            "title": "Почта на Полевой",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: 10.00-18.00 обед: 13.00-14.00 ВС выходной</div>",
+            "lat":55.934172,       
+            "lng":98.042486,
+             "icon": "imges/icon/postal.png"
+        },
+        {
+            "title": "Почта на Старобозарной",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: 10.00-18.00 обед: 13.00-14.00 ВС выходной</div>",
+            "lat":55.941340,     
+            "lng":98.004798,
+             "icon": "imges/icon/postal.png"
+        },
+        {
+            "title": "Почта на Партизанской",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: 10.00-18.00 обед: 13.00-14.00 ВС выходной</div>",
+            "lat":55.940484,      
+            "lng":98.023477,
+             "icon": "imges/icon/postal.png"
+        },
+        {
+            "title": "Почта на Советской",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: 10.00-18.00 обед: 13.00-14.00 ВС выходной</div>",
+            "lat":55.935559,        
+            "lng":97.990819,
+             "icon": "imges/icon/postal.png"
+        }
+        
+         ]
+}
+ 

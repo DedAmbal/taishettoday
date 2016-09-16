@@ -1,0 +1,88 @@
+{
+    "places": [
+        {
+            "title": "Памятник - обелиск Воинам - землякам погибшим на фронтах Великой Отечественной Войны",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/soldat_map.jpg\"/><br><p>Памятник установлен на привокзальной площади. Открытие состоялось 7 ноября 1967 года.</p><p>Авторы памятника - местные скульпторы В.М. Зуев Е.С.Фесенко.</p></div>",
+            "lat": 55.939720,
+            "lng": 98.001182,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Водонапорная башня",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/img/map/bashn_map.jpg\"/><br><p>Построена в 1911 году</p></div>",
+            "lat": 55.940798, 
+            "lng": 98.000977,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Памятник - паровоз",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/paravoz_map.jpg\"/><br><p>Памятник - паровоз серии Л № 3449 установлен в 1995 году к 50-летию Великой Победы на пристанционной площади.</p><p>Установлен пo эскизу художника Жамова В.Н.</p></div>",
+            "lat": 55.938926,
+            "lng": 98.002749,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Символический памятник \"Танк Т-34\"",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/tank_map.jpg\"/><br><p>Боевой танк - знаменитая тридцатьчетверка, изготовлен на высоком постаменте на площади Юбилейная в 1980 году.</p></div>",
+            "lat": 55.941182,
+            "lng": 98.021570,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Памятник выпускникам и учителям школы №85",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/pam_map.jpg\"/><br><p>Памятник установлен 30 октября 1967 года на территории школы №85 Стройуправлением №21</p></div>",
+            "lat": 55.934160,
+            "lng": 98.023100,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Мемориальная доска учителям и ученикам железнодорожной школы №85",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/memorial_map.jpg\"/><br><p>Мемориальная доска установлена на фасаде здания школы №85, со писком погибших, всего 23 Фамилии.</p></div>",
+            "lat": 55.934294, 
+            "lng": 98.022645,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Мемориальная доска в помять о Герое Советского Союза Николае Трофимовиче Андрееве",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/andreev_map.jpg\"/><br><p>Расшифровочная доска на доме №1 по ул. Андреева (бывшая Березовая) установлена 9 мая 1990 года</p></div>",
+            "lat": 55.941833,  
+            "lng": 98.001625,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Стела памяти Николая Дмитриевича Пахотищева.",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/stela_map.jpg\"/><br><p>Улица Полевая переименована в микрорайон Пахотищева 13.09.1984г.</p></div>",
+            "lat": 55.932564,  
+            "lng": 98.035808,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Обелиск Гражданской Войны",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/obelisk_map.jpg\"/><br><p><p>Обелиск 9 растреляным партизанам.</p></p></div>",
+            "lat": 55.951999,   
+            "lng": 98.011801,
+            "icon": "imges/icon/modernmonument.png"
+        },
+         {
+            "title": "Статуя Ленину",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/lenin_map.jpg\"/><br></div>",
+            "lat": 55.936167,   
+            "lng": 97.991678,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Мемориал в память погибшим милиционерам в годы ВОВ",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/milich_map.jpg\"/><br></div>",
+            "lat": 55.934564,   
+            "lng": 97.993699,
+            "icon": "imges/icon/modernmonument.png"
+        },
+        {
+            "title": "Сквер на пятой школе",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/fontan5.jpg\"/><br></div>",
+            "lat": 55.940838,   
+            "lng": 98.031713,
+            "icon": "imges/icon/modernmonument.png"
+        }
+    ]
+}

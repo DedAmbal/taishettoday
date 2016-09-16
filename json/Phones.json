@@ -1,0 +1,47 @@
+{
+    "places": [
+       
+        {
+            "title":"Мегафон по Транспортной",
+            "description": "<div style=\"text-align:center\"><br>Режим работы:с 10.00-19.00 обед 13.00 - 14.00<br>Адресс:ул.Транспортная остановка: школа №14</div>",
+            "lat":55.938974, 
+            "lng":98.007189,  
+            "icon": "imges/icon/phones.png"
+        },
+        {
+            "title":"Билайн в торговом комплексе 'Сибирь'",
+            "description": "<div style=\"text-align:center\"><br>Режим работы:с 10.00 до 19.00 без выходных обед с 14.00 до 15.00</div>",
+            "lat":55.940148, 
+            "lng":98.004961,   
+            "icon": "imges/icon/phones.png"
+        },
+        {
+            "title":"МТС по Транспартной",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/mts_map.jpg\"/><br>Режим работы:<br>Адресс:ул.Транспортная остановка: школа №14</div>",
+            "lat":55.939037, 
+            "lng":98.007123,   
+            "icon": "imges/icon/phones.png"
+        },
+        {
+            "title":"Билайн по Гагарина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/bilain_map.jpg\"/><br>Режим работы:<br>Адресс:ул. 8 Марта, 3</div>",
+            "lat":55.936049, 
+            "lng":98.023796,   
+            "icon": "imges/icon/phones.png"
+        },
+         {
+            "title":"Теле-2 по Гагарина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/tele_map.jpg\"/><br>Режим работы:<br>Адресс:ул.Гагарина, 123</div>",
+            "lat":55.936385, 
+            "lng":98.024368,   
+            "icon": "imges/icon/phones.png"
+        },
+        {
+            "title":"МТС по Гагарина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/MTS2_map.jpg\"/><br>Режим работы:<br>Адресс:ул. Гагарина, 100</div>",
+            "lat":55.935892,   
+            "lng":98.024500,   
+            "icon": "imges/icon/phones.png"
+        }
+    ]
+}

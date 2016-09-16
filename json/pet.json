@@ -1,0 +1,25 @@
+{
+    "places": [
+        {
+            "title": "Доктор Зоо",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 19.00;СБ ВС с 10.00 - 17.00 т.89245448132</div>",
+            "lat":55.937218,     
+            "lng":98.013194,
+            "icon":"imges/icon/pets.png" 
+        },
+         {
+            "title": "Зоотовары",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.936025,      
+            "lng":97.991011,
+            "icon":"imges/icon/pets.png" 
+        },
+        {
+            "title": "Зоотовары",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/pat_map.jpg\"/><br>Режим работы:с 10.00 до 19.00 обед 13.00 до 14.00 без выходных<br>ул. Зои Космедимьянской 10</div>",
+            "lat":55.938068,      
+            "lng":98.021505,
+            "icon":"imges/icon/pets.png" 
+        }
+         ]
+}

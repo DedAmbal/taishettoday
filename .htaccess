@@ -1,0 +1,5 @@
+
+RewriteEngine on
+
+RewriteRule ^([^/\.]+)/?$ tayshet_gorod_stalnykh_magistraley.php?open=click&nom=$1 [L]
+AddDefaultCharset UTF-8

@@ -1,0 +1,74 @@
+{
+    "places": [
+        {
+            "title": "Конно спортивный клуб",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/kon_map.jpg\"/><br>Режим работы:с 15.00 - 18.00; СБ ВС 10.00 - 18.00</div>",
+            "lat":55.911758,       
+            "lng":98.028165,
+            "icon":"imges/icon/smiley_happy.png" 
+        },
+         {
+            "title": "Кинотеатр \"Гагарин\"",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.30 - 23.00 т.8(914)9330999</div>",
+            "lat":55.937919,  
+            "lng":98.019988,
+            "icon": "imges/icon/smiley_happy.png" 
+        },
+        {
+            "title": "Боулинг в Бирюсинске",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:10.00-7.00 </dr>т.8(39563)71222, 89501471222, 89836971222</div>",
+            "lat":55.963339,   
+            "lng":97.810103,
+            "icon":"imges/icon/smiley_happy.png" 
+        },
+        {
+            "title": "Сауна Одиссея",
+            "description": "<div style=\"text-align:center; width: 250px;\">Кругдосуточно т26465, +7 9500756877</div>",
+            "lat":55.934357,      
+            "lng":98.049052,
+             "icon": "imges/icon/smiley_happy.png"
+        },
+        {
+            "title": "Сауна в Кедре",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы</div>",
+            "lat":55.941598,     
+            "lng":98.007564,
+             "icon": "imges/icon/smiley_happy.png"
+        },
+        {
+            "title": "База отдыха 'Три Пискаря'",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: Круглосуточно; тел. 83956320347</div>",
+            "lat":55.940873,     
+            "lng":98.002987,
+             "icon": "imges/icon/smiley_happy.png"
+        },
+         {
+            "title": "Пейнтбол",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:т.89500911384</div>",
+            "lat":55.929874, 
+            "lng":98.010849,
+            "icon": "imges/icon/smiley_happy.png"  
+        },
+        {
+            "title": "Бильярд",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.927285,  
+            "lng":98.008465,
+            "icon": "imges/icon/smiley_happy.png"  
+        },
+        {
+            "title": "Кедровая фитобочка",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/fito_map.jpg\"/><br>Запись по тел.89086458552</div>",
+            "lat":55.933470,  
+            "lng":98.022929,
+            "icon": "imges/icon/smiley_happy.png"  
+        },
+        {
+            "title": "Городская баня",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/banya.jpg\"/><br>Режим работы:с 12.00-до 18.00 Вт.Чт.Сб. - мужской день, Ср, Пт, Вс - женский день</div>",
+            "lat":55.940074,  
+            "lng":98.024660,
+            "icon": "imges/icon/smiley_happy.png"  
+        }
+         ]
+}

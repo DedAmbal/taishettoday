@@ -1,0 +1,54 @@
+{
+    "places": [
+        {
+            "title": "Ювелирный",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.30-19.00 СБ ВС 9.30-17.00</div>",
+            "lat":55.938264,     
+            "lng":97.996234, 
+             "icon": "imges/icon/jewelry.png"
+        },
+        {
+            "title": "Русское золото",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/jewelry2_map.jpg\"/><br>Режим работы:с 10.00-18.00 СБ ВС 10.00-18.00</div>",
+            "lat":55.936787,     
+            "lng":98.021422, 
+            "icon": "imges/icon/jewelry.png"
+        },
+         {
+            "title": "Кристалл",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - суббота 9-19, перерыв 14-15 воскресенье 9-15, без перерыва т.+7 (39563) 2-06-94</div>",
+            "lat":55.933780,      
+            "lng":98.030057, 
+            "icon": "imges/icon/jewelry.png"
+        },
+         {
+            "title": "Сапфир",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 10-18, без перерыва суббота, воскресенье 10-17, без перерыва<br>т.+7 (39563) 5-24-40</div>",
+            "lat":55.939793,       
+            "lng":98.005930, 
+            "icon": "imges/icon/jewelry.png"
+        },
+        {
+            "title": "Ювелирный в Сибири",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.940127,       
+            "lng":98.005024, 
+            "icon": "imges/icon/jewelry.png"
+        },
+        {
+            "title": "Ювелирный в Мике",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.935810,        
+            "lng":98.017585, 
+            "icon": "imges/icon/jewelry.png"
+        },
+        {
+            "title": "Ювелирный в Модном",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.936044,         
+            "lng":98.015055, 
+            "icon": "imges/icon/jewelry.png"
+        }                  
+         ]
+}
+ 

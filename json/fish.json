@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "title": "Марго",
+            "description":"<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/fish1_map.jpg\"/><br>Режим работы:ПН-СБ с 10.00 - 18.00; ВС 10.00 - 15.00<br>2-14-84</div>",
+            "lat":55.933911,       
+            "lng":97.987334,
+            "icon":"imges/icon/hunting.png" 
+        },
+        {
+            "title": "Магазин Рыболов",
+            "description":"<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/fish_map.jpg\"/><br>Режим работы:с 10.00 - 19.00<br>Адрес:ул. Гагарина, 116<br>тел.8-950-121-07-46</div>",
+            "lat":55.934639,       
+            "lng": 98.028135,
+            "icon":"imges/icon/hunting.png" 
+        },
+         {
+            "title": "Марго по Суворова",
+            "description":"<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/margo2_map.jpg\"/><br>Режим работы:ПН-СБ с 10.00 - 18.00; ВС 10.00 - 15.00<br>2-14-84</div>",
+            "lat":55.939563,       
+            "lng":98.021774,
+            "icon":"imges/icon/hunting.png" 
+        }
+        
+     ]
+}

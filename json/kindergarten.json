@@ -1,0 +1,74 @@
+{
+    "places": [
+        {
+            "title": "Детский сад Ромашка",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 7.30-18.00 , без перерыва т.+7 (39563) 2-58-24 </div>",
+            "lat": 55.920815,  
+            "lng": 98.006876,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад Рябинка",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 7.30-18.00 , без перерыва</br>т.+7 (39563) 2-68-29 </div>",
+            "lat":55.934764, 
+            "lng":98.042835,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад №3",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т.+7 (39563) 2-44-30 </div>",
+            "lat": 55.930752,  
+            "lng": 98.003221,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Сказка",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т.+7 (39563) 2-10-58</div>",
+            "lat": 55.942334,   
+            "lng": 98.028995,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Белочка",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т.+7 (39563) 2-17-56</div>",
+            "lat": 55.941126,  
+            "lng": 98.032420,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад № 207",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т. +7 (39563) 5-01-64 (заведующая)</div>",
+            "lat": 55.938953, 
+            "lng": 98.022435 ,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад № 206",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т.  +7 (39563) 5-33-23 (заведующая)</div>",
+            "lat": 55.939491, 
+            "lng": 98.007771,
+            "icon":"imges/icon/kindergarten.png"
+        },
+         {
+            "title": "Детский сад присмотра и оздоровления №15",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т. +7 (39563) 2-45-96</div>",
+            "lat": 55.936196, 
+            "lng": 97.998706,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад №5",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т. +7 (39563) 2-43-68</div>",
+            "lat": 55.930613,  
+            "lng": 97.994401,
+            "icon":"imges/icon/kindergarten.png"
+        },
+        {
+            "title": "Детский сад №5",
+            "description": "<div style=\"text-align:center;\">Режим работы:понедельник - пятница 8.00-18.00 , без перерыва</br>т. +7 (39563) 2-43-68</div>",
+            "lat": 55.930613,  
+            "lng": 97.994401,
+            "icon":"imges/icon/kindergarten.png"
+        }         
+    ]
+}

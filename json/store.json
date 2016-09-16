@@ -1,0 +1,109 @@
+{
+    "places": [
+        {
+            "title": "Светофор",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 8.30-20.00</div>",
+            "lat": 55.948509,
+            "lng": 97.976234,
+             "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Светофор",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.30-20.00</div>",
+            "lat": 55.928816,
+            "lng": 97.97189,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Колхозный рынок",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat": 55.935525,
+            "lng": 97.984092,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Стройучасток",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.30-20.00<br><img src=\"http://taishettoday.ru/imges/map/stroyychastok_map.jpg\"/></div>",
+            "lat": 55.938126, 
+            "lng": 98.018244,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Базар",
+            "description": "<div style=\"text-align:center\">Режим работы:c 10.00-20.00</div>",
+            "lat": 55.937497,
+            "lng": 98.019336,
+            "icon":"imges/icon/deptstore.png"
+        },
+         {
+            "title": "Оптовая база",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat": 55.931389,
+            "lng": 98.012329,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Сибирь",
+            "description": "<div style=\"text-align:center\">Режим работы:c 10.00 - 19.00</div>",
+            "lat": 55.940225,
+            "lng": 98.004930,
+             "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Мика",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/mika_map.jpg\"/><br>Адрес:Транспортная ул., 91</div>",
+            "lat": 55.941761,
+            "lng": 98.000450,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Мика-2",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat": 55.935775,
+            "lng": 98.0176010,
+            "icon":"himges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Домино",
+            "description": "<div style=\"text-align:center\">Режим работы:c 10.00 - 19.00</div>",
+            "lat": 55.941680,
+            "lng": 98.005055,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый центр Бижан",
+            "description": "<div style=\"text-align:center\">Режим работы</div>",
+            "lat": 55.937148,
+            "lng": 98.011749,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Центральный рынок",
+            "description": "<div style=\"text-align:center\">Режим работы:c 9.00 - 18.00</div>",
+            "lat": 55.944101,
+            "lng": 98.008106,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Мастер класс",
+            "description": "<div style=\"text-align:center\">Режим работы:c 9.00 - 17.30 СБ 9.00-15.00 ВС выходной</div>",
+            "lat": 55.946339, 
+            "lng": 98.010717,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Торговый дом Фартуна",
+            "description": "<div style=\"text-align:center\">Режим работы:c 10.00 - 20.00 т.89086677866; т.89086458937</div>",
+            "lat": 55.937148,
+            "lng": 98.011749,
+            "icon":"imges/icon/deptstore.png"
+        },
+        {
+            "title": "Уневермаг октябрьский",
+            "description": "<div style=\"text-align:center\">Режим работы:1эт. c 8.00 - 23.00; 2эт. с 10.00-21.00</div>",
+            "lat":55.924792, 
+            "lng":97.976159,
+            "icon":"imges/icon/deptstore.png"
+        }
+    ]
+}

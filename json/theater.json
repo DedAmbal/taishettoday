@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "title": "Центр Досуга Радуга",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/raduga_map.jpg\"/><br></div>",
+            "lat": 55.936136,
+            "lng": 97.992021,
+            "icon": "imges/icon/theater.png"
+        },
+        {
+            "title": "Дом Культуры Железнодорожника",
+            "description": "<div style=\"text-align:center\"></div>",
+            "lat": 55.939862,
+            "lng": 98.020463,
+            "icon": "imges/icon/theater.png"
+        },
+        {
+            "title": "ДК Юбилейный",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/theater3_map.jpg\"/><br></div>",
+            "lat": 55.933496,
+            "lng": 98.044951,
+            "icon": "imges/icon/theater.png"
+        },
+         {
+            "title": "Краеведческий музей",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 18.00; Выходные: ВС,ПН</div>",
+            "lat":55.935787,  
+            "lng":97.992096,
+            "icon": "imges/icon/theater.png" 
+        }
+    ]
+}

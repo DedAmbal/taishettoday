@@ -1,0 +1,95 @@
+{
+    "places": [
+        {
+            "title": "Аптека Надежда №2",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.00 - 21.00;СБ ВС с 09.00 - 21.00<br>т.+7 (39563)2-36-56</div>",
+            "lat": 55.934483,  
+            "lng": 98.037467,
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека 24",
+            "description": "<div style=\"text-align:center\">Режим работы:<img src=\"http://taishettoday.ru/imges/map/pharmacy1_map.jpg\"/><br>Круглосуточно</div>",
+            "lat": 55.940459, 
+            "lng": 98.004130,
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/pharmacy2_map.jpg\"/><br>Режим работы:Круглосуточно</div>",
+            "lat": 55.939973, 
+            "lng": 98.005536,
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека",
+            "description": "<div style=\"text-align:center\">Режим работы:</div>",
+            "lat": 55.926533,   
+            "lng": 98.007781,
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека Надежда №3",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.00 - 21.00;СБ ВС с 09.00 - 21.00<br>т.+7 (39563) 2-40-21</div>",
+            "lat": 55.923213,   
+            "lng": 98.006828,
+            "icon": "imges/icon/hospital.png"
+        },
+         {
+            "title": "Эскулап",
+            "description": "<div style=\"text-align:center\">Режим работы:с 9.00 - 15.00;выходной СБ ВС; обед с 12.00 - 13.00<br>т.2-32-10</div>",
+            "lat": 55.939409, 
+            "lng": 98.028671,
+            "icon": "imges/icon/hospital.png" 
+        },
+         {
+            "title": "Аптека по Ленина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/aptekaL_map.jpg\"/><br>Режим работы:с 8.00 - 20.00<br>т.+7 (39563)2-47-04</div>",
+            "lat": 55.935524,   
+            "lng": 97.991555,
+            "icon": "imges/icon/hospital.png"
+        },
+         {
+            "title": "Аптека плюс",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.00 - 21.00<br>т.+7 (39563)2-16-16</div>",
+            "lat": 55.942884,    
+            "lng": 98.028370,
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека 24",
+            "description": "<div style=\"text-align:center\">Режим работы:Круглосуточно</div>",
+            "lat": 55.943398,    
+            "lng": 98.029686, 
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Флория",
+            "description": "<div style=\"text-align:center\">Режим работы:т.+7 (395) 632-34-54</div>",
+            "lat": 55.935613,     
+            "lng": 98.025117, 
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Эскулап по Гагарина",
+            "description": "<div style=\"text-align:center\">Режим работы:с 8.00 - 22.00 без выходных</div>",
+            "lat": 55.935721,     
+            "lng": 98.025300, 
+            "icon": "imges/icon/hospital.png"
+        },
+         {
+            "title": "Эскулап по Суворова",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/opt.jpg\"/><br>Режим работы:с 8.00 - 22.00 без выходных</div>",
+            "lat": 55.938250,     
+            "lng": 98.019374, 
+            "icon": "imges/icon/hospital.png"
+        },
+        {
+            "title": "Аптека Плюс на Пушкина",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/plus_map.jpg\"/><br>Режим работы:с 8.00 - 21.00 без выходных</div>",
+            "lat": 55.926480,      
+            "lng": 98.007738, 
+            "icon": "imges/icon/hospital.png"
+        }
+         ]
+}

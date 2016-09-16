@@ -1,0 +1,60 @@
+{
+    "places": [
+        {
+            "title": "Союз",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/souz.jpg\"/ alt=\"Союз\" title=\"Союз\"><br>Режим работы:понедельник - пятница 9-19 , без перерыва суббота 10-17, без перерыват т.+7 (39563) 2-25-81 (магазин) +7 (39563) 2-34-22 (директор)</div>",
+            "lat":  55.936388,
+            "lng": 98.026081,
+            "icon":"imges/icon/phones.png"
+        },
+        {
+            "title": "Связной по Гагарина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/svyznoy3_map.jpg\"/ alt=\"Магазин Связной в Тайшете\" title=\"Связной по Гагарина\"><br>Режим работы:с 10.00 - 19.00</div>",
+            "lat": 55.936377, 
+            "lng": 98.024355,
+            "icon":"imges/icon/phones.png"
+        },
+        {
+            "title": "Связной по Суворова",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/svyznoy2_map.jpg\"/><br>Режим работы:с 10.00 - 19.00</div>",
+            "lat": 55.936465, 
+            "lng": 98.018312,
+            "icon":"imges/icon/phones.png"
+        },
+        {
+            "title": "Связной по Транспортной",
+            "description": "<div style=\"text-align:center\">Режим работы:с 10.00 - 19.00</div>",
+            "lat": 55.940924, 
+            "lng": 98.002196,
+            "icon":"imges/icon/phones.png"
+        },
+         {
+            "title": "Евросеть",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/evroset_map.jpg\"/><br>Режим работы: понедельник - воскресенье 9-19, без перерыва 8-800-700-00-10 единая справочная</div>",
+            "lat": 55.936432, 
+            "lng": 98.024126,
+            "icon":"imges/icon/phones.png" 
+        },
+        {
+            "title": "ДНС",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/dns_map.jpg\"/><br>Режим работы:10.00 - 20.00<br>Адрес:Транспортная ул., 91</div>",
+            "lat": 55.935824, 
+            "lng": 98.017624,
+            "icon":"imges/icon/phones.png"
+        },
+        {
+            "title": "Сеть техники",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/set_tex.jpg\"/><br>Режим работы:</div>",
+            "lat": 55.938321, 
+            "lng": 98.020419,
+            "icon":"imges/icon/phones.png"
+        },
+         {
+            "title": "Компьютеры",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/kompi.jpg\"/><br>Режим работы:</div>",
+            "lat": 55.939104, 
+            "lng": 98.005921,
+            "icon":"imges/icon/phones.png"
+        }        
+    ]
+}

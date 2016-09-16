@@ -1,0 +1,11 @@
+{
+    "places": [
+         {
+            "title": "Натариус по Гагарина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/nat_map.jpg\"/><br>Режим работы:Прием с 9.00 до 17.00 обед с 12.30 - 13.30 СБ ВС выходные</div>",
+            "lat":55.936327,  
+            "lng":98.025113,
+            "icon": "imges/icon/administration.png"
+           }
+            ]
+}

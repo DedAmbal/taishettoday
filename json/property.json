@@ -1,0 +1,11 @@
+{
+    "places": [
+        {
+            "title": "Сибирский дом",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/nedvig.jpg\"/><br>Режим работы:с 9.00 - 18.00 выходной ВС</div>",
+            "lat":55.936764,      
+            "lng":98.023358,
+            "icon":"http://google-maps-icons.googlecode.com/files/congress.png" 
+        }
+         ]
+}

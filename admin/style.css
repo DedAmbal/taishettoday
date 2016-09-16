@@ -1,0 +1,104 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.shrift
+  {
+   font-family: Verdana;
+   color: #0000a0; 
+   font-size: 16px;
+  }
+.shrift-stock
+  {
+   font-family: Verdana;
+   color: #0000a0; 
+   font-size: 15px;
+  }
+.shrift-stock-small
+  {
+   font-family: Verdana;
+   color: #0000a0; 
+   font-size: 10px;
+  }  
+a.shrift-menu
+{
+  font: 14px/18px Verdana;
+  color: #0000a0; 
+  text-decoration: none;
+  padding: 0 20px;
+} 
+a.shrift-menu:hover
+{
+  color: #0000a0; 
+  text-decoration:underline;
+}
+A.g-menu
+  {
+   font-family: Verdana;
+   color: #0000a0; 
+   font-size: 12px;
+   text-decoration:none;
+  } 
+A.g-menu:hover
+  {
+   color: #0000a0; 
+   text-decoration:underline;
+  }        
+body /*Задний фон сайта*/
+    {
+	 background-color:#fff;
+	 margin-top:0px;
+	 margin-bottom:0px;
+	 background-repeat:no-repeat;
+	 background-position:top;
+	 b
+    }	
+.admin-font
+    {
+     font-family:Arial; 
+     font-size:25px; 
+     color:#0000a0;	
+    }       
+
+.radius {
+  margin: 10px auto;
+  width: 500px;
+  padding: 10px;
+  color: #0000a0;
+  background: #3465AD;
+  border: 2px solid CornflowerBlue;
+  border-radius: 30px;
+  outline: 0px solid CornflowerBlue;
+  outline-offset: 1px;
+  -moz-outline-radius: 40px;
+}  
+.input
+      {
+       height: 24px;
+       color: #0000a0;	
+       font-family: Verdana;
+       font-size: 15px;
+       background-color: #81818c;
+      }
+.textarea
+      {
+       height: 200px;
+       width:100%;
+       color: #000;	
+       font-family: Verdana;
+       font-size: 15px;
+       background-color: #fffbf0;
+      }
+.textarea-z
+      {
+       height: 24px;
+       width:100%;
+       color: #000;	
+       font-family: Verdana;
+       font-size: 15px;
+       background-color: #fffbf0;
+      }	 
+.blocknews {
+	border-radius: 20px;
+    border: 1px solid Blue;
+	padding:10px;
+}

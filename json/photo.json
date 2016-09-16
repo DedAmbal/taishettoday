@@ -1,0 +1,46 @@
+{
+    "places": [
+{
+            "title": "Фотоцентр",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ПТ с 9.00–18.00 СБ 10.00–17.00 ВС 10.00 - 15.00</div>",
+            "lat":55.940734,  
+            "lng":98.004205,
+            "icon": "imges/icon/photo.png"
+           },
+           {
+            "title": "Фотомиг",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/fotomig_map.jpg\"/ alt=\"Печать в Тайшете\" title=\"Фотомиг\"><br>Режим работы:с 9.00-18.30 без обеда и выходных</div>",
+            "lat":55.936125,   
+            "lng":98.024879,
+            "icon": "imges/icon/http://google-maps-icons.googlecode.com/files/photo.png"
+           },
+           {
+            "title": "Ксерокопии по Транспортной",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.939090,   
+            "lng":98.007639,
+            "icon": "imges/icon/photo.png"
+           },
+           {
+            "title": "Ксерокопии в Альтаире",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.936321,   
+            "lng":98.023351,
+            "icon": "imges/icon/photo.png"
+           },
+           {
+            "title": "Печатный двор",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/pechat_map.jpg\"/ alt=\"Печать в Тайшете\" title=\"Печатный двор\"><br>Режим работы:<br></div>",
+            "lat":55.936427, 
+            "lng":98.024903,
+            "icon": "imges/icon/bookstore.png "
+           },
+           {
+            "title": "Ксерокопии",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/foto1_map.jpg\"/><br>Режим работы:</div>",
+            "lat":55.943332,   
+            "lng":98.026081,
+            "icon": "imges/icon/photo.png"
+           }  
+             ]
+}

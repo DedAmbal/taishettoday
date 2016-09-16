@@ -1,0 +1,18 @@
+{
+    "places": [
+         {
+            "title": "Гостиница 'Бирюса'",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/bir_map.jpg\"/><br>Режим работы: Круглосуточно</div>",
+            "lat":55.940826, 
+            "lng":98.003136,
+            "icon": "imges/icon/hotel.png"
+           },
+           {
+            "title": "Гостиница Трактовая",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/trakt_map.jpg\"/><br>Режим работы:Круглосуточно</div>",
+            "lat":55.912574, 
+            "lng":97.999070,
+            "icon": "imges/icon/hotel.png"
+           }
+           ]
+}

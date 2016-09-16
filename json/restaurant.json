@@ -1,0 +1,194 @@
+{
+    "places": [
+        {
+            "title": "Азия",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ЧТ:10.00 - 24.00 ПТ:10.00 - 02.00 CБ 15.00 - 02.00<br>Телефоны: 839563(2-35-14), 8-914-881-43-33</div>",
+            "lat":55.938353,     
+            "lng":98.020251,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title":"Paris",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/paris_map.jpg\"/><br>Режим работы:с 12.00 - 20.00<br>тел.89021738050, 89021730006</div>",
+            "lat":55.942617,     
+            "lng":98.001406,
+            "icon":"imges/icon/coffee.png"  
+        },
+         {
+            "title":"Paris 2",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/paris2_map.jpg\"/><br>Режим работы: с 8ч - 00ч<br>тел.</div>",
+            "lat":55.939073,      
+            "lng":98.001118,
+            "icon":"imges/icon/coffee.png"  
+        },
+        {
+            "title": "Peoples",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:Лето : понедельник - воскресенье 10 - 02 , без перерыва Зима : понедельник - воскресенье 10 - 24 , без перерыва<br>т.8-904-116-96-99</div>",
+            "lat":55.932772,     
+            "lng":98.014512,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Согдиана",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ежедневно с 11-00 до 05-00</div>",
+            "lat":55.944027,    
+            "lng":98.009483,
+            "icon":"imges/icon/coffee.png"
+        },
+         {
+            "title": "Марго",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:11.00-3.00</div>",
+            "lat":55.935793,     
+            "lng":98.039723,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе в Бирюсинске",
+            "description": "<div style=\"text-align:center; width: 250px;\">т.83956371444</div>",
+            "lat":55.963796,     
+            "lng":97.811078,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Маяк",
+            "description": "<div style=\"text-align:center; width: 250px;\">с 8.00-24.00</div>",
+            "lat":55.941851,      
+            "lng":98.024280,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Маяк",
+            "description": "<div style=\"text-align:center; width: 250px;\">с 8.00-24.00</div>",
+            "lat":55.934448,      
+            "lng":98.030140,
+            "icon":"imges/icon/coffee.png"
+        },     
+        {
+            "title": "Кафе Султан Сулейман",
+            "description": "<div style=\"text-align:center; width: 250px;\">понедельник - воскресенье 12-24, без перерыва<br>т.+7 (39563) 2-02-01</div>",
+            "lat":55.934448,      
+            "lng":98.030140,
+            "icon":"imges/icon/coffee.png"
+        },
+         {
+            "title": "Ресторан Премьера",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/premera_map.jpg\"/><br>ежедневно, 12:00-00:00, перерыв 16.00-18.00<br>т.+7 (39563) 2-47-33; 8-902-173-81-10</div>",
+            "lat":55.921597,       
+            "lng":98.020223,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе на Тайшетке",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: Круглосуточно<br>т.8-964-110-11-62</div>",
+            "lat":55.957211,        
+            "lng":97.963248,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Островок",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - воскресенье 10-18, без перерыва остальное время по заказу<br>т.8-950-056-66-02</div>",
+            "lat":55.935050,        
+            "lng":97.987320,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Вегас",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - четверг 12-22, без перерыва пятница, суббота 12-02 , без перерыва<br>т.8-908-644-85-58</div>",
+            "lat":55.923244,         
+            "lng":98.011592,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Уютное",
+            "description": "<div style=\"text-align:center; width: 250px;\">т.8-914-894-84-14</div>",
+            "lat":55.942224,        
+            "lng":98.007825,
+            "icon":"imges/icon/coffee.png"
+        },
+         {
+            "title": "Кафе Парус",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:c10.00-17.00 выходной:ВС ПН</div>",
+            "lat":55.936371,        
+            "lng":97.991991,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ПТ 9.00-20.00</div>",
+            "lat":55.924255,        
+            "lng":97.974667,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Пельменная",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<img src=\"http://taishettoday.ru/imges/map/premera_map.jpg\"/><br>9.00-21.00<br><br>89500790000</div>",
+            "lat":55.939649,         
+            "lng":98.006323,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Позная по Транспортной",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ПТ 10.00-20.00 СБ 10.00 - 15.00 ВС выходной</div>",
+            "lat":55.938995,        
+            "lng":98.008059,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Китайский ресторан",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/kitay_map.jpg\"/><br>круглосуточно 12.00-24.00<br>т.+7 (39563) 2-47-33; 8-908-640-47-77</div>",
+            "lat":55.921713,        
+            "lng":98.020088,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе 'Автостоп'",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/avtostop_map.jpg\"/><br>круглосуточно сан. час с 7.00 - 9.00</div>",
+            "lat":55.919391,         
+            "lng":98.026648,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Позная по Гагарина",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<img src=\"http://taishettoday.ru/imges/map/poznay_map.jpg\"/><br>ПН-ПТ 10.00-20.00 СБ 10.00 - 15.00 ВС выходной</div>",
+            "lat":55.938995,        
+            "lng":98.008059,
+            "icon":"imges/icon/coffee.png"
+        },
+         {
+            "title": "Кафе Космос",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<img src=\"http://taishettoday.ru/imges/map/kofe_kosmos.jpg\"/></div>",
+            "lat":55.933887,        
+            "lng":98.030729,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Суши-бар Тоторо",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: ежедневно с 10-00 до 22-00<br>Телефон: 89501038888</div>",
+            "lat":55.935868,         
+            "lng":98.028541,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Суши-студия Гейша",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: ежедневно с 10-00 до 21-00<br>Телефон: 89041242222</div>",
+            "lat":55.932492,         
+            "lng":98.028681,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Суши Макс",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: <br>Телефон:</div>",
+            "lat":55.937800,          
+            "lng":98.021998,
+            "icon":"imges/icon/coffee.png"
+        },
+        {
+            "title": "Кафе Хутарок",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: понедельник – среда 8-17 , без перерыва четверг – воскресенье 8-02, без перерыва <br>Телефон:+7 (39563) 2-55-27, 8-908-645-89-37</div>",
+            "lat":55.922190,          
+            "lng":98.023164,
+            "icon":"imges/icon/coffee.png"
+        }
+         ]
+}
+    

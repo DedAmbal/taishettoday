@@ -1,0 +1,32 @@
+{
+    "places": [
+         {
+            "title": "Алые паруса",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>тел.2-29-28<br>ул. Шевченко, 8</div>",
+            "lat":55.935458,  
+            "lng":98.025562,
+            "icon": "imges/icon/library.png"
+           },
+           {
+            "title": "Искра",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>тел.5-42-14<br>Транспортная ул., 33</div>",
+            "lat":55.938286, 
+            "lng":98.010160,
+            "icon": "imges/icon/library.png"
+           },
+           {
+            "title": "Глобус",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>тел.5-42-14<br>Шевченко, 1</div>",
+            "lat":55.933909, 
+            "lng":98.023123,
+            "icon": "imges/icon/library.png"
+           },
+           {
+            "title": "Магазин",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>тел.5-42-14<br>улица Гагарина, 96</div>",
+            "lat":55.936424, 
+            "lng":98.022956,
+            "icon": "imges/icon/library.png"
+           }
+           ]
+}

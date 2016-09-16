@@ -1,0 +1,40 @@
+{
+    "places": [
+        {
+            "title": "Бегемотик по Чапаева",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 19.00 </div>",
+            "lat":55.935561,   
+            "lng":97.989454,
+            "icon":"imges/icon/toys.png" 
+        },
+        {
+            "title": "Игрушки",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.937582,     
+            "lng":97.993586 ,
+            "icon":"imges/icon/toys.png" 
+        },
+         {
+            "title": "Бегемотик по Гагарина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/toy3_map.jpg\"/><br>Режим работы:с 10.00 - 19.00 </div>",
+            "lat":55.936805,   
+            "lng":98.021304,
+            "icon":"imges/icon/toys.png" 
+        },
+        {
+            "title": "Мама+",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>тел.8-908-659-63-64<br>ул. 8 Марта, 3</div>",
+            "lat":55.935931,  
+            "lng":98.023571,
+            "icon": "imges/icon/toys.png"
+           },
+           {
+            "title": "Остров сокровищ",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/octrov_map.jpg\"/><br>Режим работы:<br>тел.5-35-36<br>ул. Гагарина, 125</div>",
+            "lat":55.936038, 
+            "lng":98.025432,
+            "icon": "imges/icon/toys.png"
+           }
+       
+         ]
+}

@@ -1,0 +1,88 @@
+{
+    "places": [
+        {
+            "title": "Для дома",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 19.00</div>",
+            "lat":55.941938,      
+            "lng":98.004468,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Хозяюшка",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.30 - 19.00</div>",
+            "lat":55.938286,     
+            "lng":97.996256,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Посуда центр",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 19.00</div>",
+            "lat":55.937582,       
+            "lng":97.993611,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Домовой",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: т.7 (39563)2-20-58</div>",
+            "lat": 55.942028,    
+            "lng": 98.004647,
+            "icon": "imges/icon/tailor.png"
+        },
+         {
+            "title": "Товары для творчества",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.945648,   
+            "lng":98.009898,
+            "icon":"imges/icon/tailor.png"  
+        },
+        {
+            "title": "Каскад",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/kaskad_map.jpg\"/><br>Режим работы:<br>Адрес:Транспортная 39</div>",
+            "lat":55.937442,    
+            "lng":98.014357,
+            "icon":"imges/icon/tailor.png"  
+        },
+         {
+            "title": "Декор",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/decor_map.jpg\"/><br>Режим работы:ПН-ПТ с 10.00 - 18.00 СБ 10.00 - 17.00 ВС выходной</div>",
+            "lat":55.941938,      
+            "lng":98.004468,
+            "icon":"imges/icon/tailor.png"
+        },
+         {
+            "title": "Ткани",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ПТ с 10.00 - 18.00 СБ ВС 10.00 - 17.00</div>",
+            "lat":55.941329,       
+            "lng":98.004781,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Ковровый двор",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/kover_map.jpg\"/><br>Режим работы:с 9.00 - 19.00</div>",
+            "lat":55.937831,      
+            "lng":98.009804,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Альпы",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.937144,      
+            "lng":98.017789,
+            "icon":"imges/icon/tailor.png"
+        },
+        {
+            "title": "Сказка",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/skazka_map.jpg\"/><br>Режим работы:c 10.00 до 19.00 обед с 14.00 до 15.00<br>в ВС с 10.00 до 17.00 обед с 14.00 до 15.00</div>",
+            "lat":55.937295,   
+            "lng":98.021672,
+            "icon":"imges/icon/tailor.png"  
+        },
+        {
+            "title": "Изюминка",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/izuminka.jpg\"/><br>Режим работы:</div>",
+            "lat":55.936796,   
+            "lng":98.018695,
+            "icon":"imges/icon/tailor.png"  
+        }
+         ]
+}

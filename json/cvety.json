@@ -1,0 +1,60 @@
+{
+    "places": [
+         {
+            "title": "Цветы по Первомайской",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/cvet_map.jpg\"/><br>Режим работы:c 10.00 - 18.00</div>",
+            "lat":55.941175, 
+            "lng":98.024098,
+            "icon": "imges/icon/flowers.png"
+           },
+           {
+            "title": "Студия флористики Магия цветов",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/magi_map.jpg\"/><br>Режим работы:</div>",
+            "lat":55.935840, 
+            "lng":98.024639,
+            "icon": "imges/icon/flowers.png"
+           },
+           {
+            "title": "Для Любимых",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/lub_map.jpg\"/><br>Режим работы:Круглосуточно<br>тел.+7(3952)2-07-73</div>",
+            "lat":55.935840, 
+            "lng":98.024639,
+            "icon": "imges/icon/flowers.png"
+           },
+           {
+            "title": "Цветы",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/flaurs_map.jpg\"/><br>Режим работы:9.00 - 20.00<br>Транспортная ул., 21<br>тел.5-24-64</div>",
+            "lat":55.939715, 
+            "lng":98.006056,
+            "icon": "imges/icon/flowers.png"
+           },
+           {
+            "title": "Салон цветов 'Миллион роз'",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/millionroz_map.jpg\"/><br>Режим работы:9.00 - 20.00<br></div>",
+            "lat":55.939715, 
+            "lng":98.006056,
+            "icon": "imges/icon/flowers.png"
+           },
+           {
+            "title": "Цветы",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>Транспортная ул., 15</div>",
+            "lat":55.940482,    
+            "lng":98.002877, 
+             "icon": "imges/icon/flowers.png"
+        },
+         {
+            "title": "Татьяна",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>Привокзальная площадь</div>",
+            "lat":55.939724,     
+            "lng":98.000535, 
+             "icon": "imges/icon/flowers.png"
+        },
+        {
+            "title": "Фантазия",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>ул. Суворова, 6-А</div>",
+            "lat":55.937668,     
+            "lng":98.018725, 
+             "icon": "imges/icon/flowers.png"
+        }                                     
+    ]
+}

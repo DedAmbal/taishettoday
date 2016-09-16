@@ -1,0 +1,46 @@
+{
+    "places": [
+        {
+            "title": "Виконт",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 18.00 СБ ВС 10.00-17.00 </div>",
+            "lat":55.937751,   
+            "lng":98.021139,
+            "icon":"imges/icon/shoes.png" 
+        },
+        {
+            "title": "Твой стиль",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 10.00 - 19.00</div>",
+            "lat":55.941012,    
+            "lng":98.004484,
+            "icon":"imges/icon/shoes.png" 
+        },
+        {
+            "title": "Центробувь",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ежедневно, 9:00–20:00</div>",
+            "lat":55.941778,    
+            "lng":98.000186,
+            "icon":"imges/icon/shoes.png" 
+        },
+        {
+            "title": "Апельсин-1",
+            "description": "<div style=\"text-align:center; width: 250px;\"><br>Режим работы:Ежедневно с 10.00 - 19.00</div>",
+            "lat":55.934872,     
+            "lng": 98.028872,
+            "icon":"imges/icon/shoes.png" 
+        }, 
+        {
+            "title": "Апельсин-2",
+            "description": "<div style=\"text-align:center; width: 250px;\"><br>Режим работы:Ежедневно с 10.00 - 19.00</div>",
+            "lat":55.934077,     
+            "lng":98.029517,
+            "icon":"imges/icon/shoes.png" 
+        }, 
+        {
+             "title": "Юничел",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ПТ с 10.00 - 19.00 СБ-ВС с 10.00 - 18.00</div>",
+            "lat":55.936030,    
+            "lng":98.025414,
+            "icon":"imges/icon/shoes.png" 
+        }
+         ]
+}

@@ -1,0 +1,12 @@
+{
+    "places": [
+        {
+            "title": "Белая леди",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: 9.30-18.00 обед: 14.00-14.30 СБ ВС 9.30-17.00</div>",
+            "lat":55.938323,     
+            "lng":97.997180,
+             "icon": "imges/icon/wedding.png"
+        }   
+         ]
+}
+ 

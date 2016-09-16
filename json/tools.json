@@ -1,0 +1,60 @@
+{
+    "places": [
+    {
+            "title": "Пирамида",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - воскресенье 9-19, без перерыва т.+7 (39563) 5-04-50</div>",
+            "lat": 55.939640,   
+            "lng": 98.023251,
+            "icon": "imges/icon/tools.png"
+        },
+        {
+            "title": "Фаворит",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 17.00</div>",
+            "lat":55.937593,    
+            "lng":98.018486,
+            "icon":"imges/icon/tools.png" 
+        },
+         {
+            "title": "Тройка",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 18.00 СБ:c 10.00-15.00 ВС:выходной</div>",
+            "lat":55.943265,     
+            "lng":98.025848,
+            "icon":"imges/icon/tools.png" 
+        },
+         {
+            "title": "Буревесник",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 18.00 ВС:с 9.00-17.00</div>",
+            "lat":55.934382,     
+            "lng":97.992945,
+            "icon":"imges/icon/tools.png"  
+        },
+        {
+            "title": "Артель",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.30 - 19.00 Обед:с 14.00-14.30</div>",
+            "lat":55.938167,      
+            "lng":97.996033,
+            "icon":"imges/icon/tools.png"  
+        },
+         {
+            "title": "Ермак",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - воскресенье 9-19, без перерыва т.+7 (39563) 2-00-96</div>",
+            "lat":55.935197,    
+            "lng":98.024476,
+            "icon":"imges/icon/tools.png"  
+        },
+         {
+            "title": "Интерьер",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/img/map/inter_map.jpg\"/><br>Режим работы:понедельник - воскресенье 9.30-19, без перерыва т.+7 (39563) 2-66-546</div>",
+            "lat":55.935597,   
+            "lng":98.041768,
+            "icon":"imges/icon/tools.png"  
+        },
+        {
+            "title": "Мустанг",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник -воскресенье 9-19 , перерыв 14-14.30 +7 (39563) 2-44-18(тел./факс) +7 (39563) 2-39-90 сервисный центр</div>",
+            "lat":55.936973,   
+            "lng":97.996402,
+            "icon":"imges/icon/tools.png"  
+        }
+    ]
+}

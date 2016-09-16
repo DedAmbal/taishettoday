@@ -1,0 +1,11 @@
+{
+    "places": [
+{
+            "title": "Химчистка",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/himchistka_map.jpg\"/><br>Режим работы:ПН-СБ: с 9.00–17.00 ВС: Выходной<br>тел.2-40-85; 8-950-131-80-22</div>",
+            "lat":55.922357,  
+            "lng":98.018594,
+            "icon": "imges/icon/water.png"
+           } 
+             ]
+}

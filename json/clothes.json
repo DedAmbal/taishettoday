@@ -1,0 +1,68 @@
+
+{
+    "places": [
+        {
+            "title": "Глория джинс",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 19.00</div>",
+            "lat": 55.936885,  
+            "lng": 98.017948,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title":"Твое",
+            "description": "<div style=\"text-align:center\">img src=\"http://taishettoday.ru/imges/map/tvoe_map.jpg\"/><br>Режим работы: c 10.00 - 20.00</div>",
+            "lat":55.934101,  
+            "lng":98.021011,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Виктория",
+            "description": "<div style=\"text-align:center\">Режим работы:</div>",
+            "lat": 55.934665,   
+            "lng": 98.019407,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Кари",
+            "description": "<div style=\"text-align:center\">Режим работы:10.00 - 19.00</div>",
+            "lat": 55.935802,    
+            "lng": 98.017651,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Баю-Бай",
+            "description": "<div style=\"text-align:center\">Режим работы:9.30 - 18.00 обед 14.00-14.30 ВС СБ 9.30.-17.00</div>",
+            "lat": 55.938208,    
+            "lng": 97.996089 ,
+            "icon": "imges/icon/clothes.png"
+        },
+         {
+            "title": "Модный",
+            "description": "<div style=\"text-align:center\">Режим работы:10.00 - 20.00</div>",
+            "lat": 55.936023,    
+            "lng": 98.015127,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Чемпион",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/chemp_map.jpg\"/><br>Режим работы:10.00 - 19.00</div>",
+            "lat": 55.936023,    
+            "lng": 98.015127,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Польская мода",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/polsha_map.jpg\"/><br>Режим работы:ПН-ПТ 10.00 - 19.00 СБ-ВС 10.00 - 18.00</div>",
+            "lat": 55.934690,   
+            "lng": 98.027999,
+            "icon": "imges/icon/clothes.png"
+        },
+        {
+            "title": "Cамая",
+            "description": "<div style=\"text-align:center\"><img src=\"http://taishettoday.ru/imges/map/sam_map.jpg\"/><br>Режим работы:</div>",
+            "lat": 55.936830,     
+            "lng": 98.021276,
+            "icon": "imges/icon/clothes.png"
+        }
+    ]
+}

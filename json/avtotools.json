@@ -1,0 +1,74 @@
+{
+    "places": [
+        {
+            "title": "Лидер",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 18.00 обед 14.00-15.00 ВС выходной </div>",
+            "lat":55.944605,   
+            "lng":98.008724,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "За рулем",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 18.00 обед 13.30-14.00</div>",
+            "lat":55.944428,  
+            "lng":98.009672,
+            "icon":"imges/icon/repair.png" 
+        },
+         {
+            "title": "Авто сервис vicko",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 20.00 выходной:понедельник</div>",
+            "lat":55.958538, 
+            "lng":97.993128,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Запчасти для японских автомобилей",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 9-18, перерыв 13.00-14.30 суббота 9-15, без перерыва<br>т. 8-902-174-55-72</div>",
+            "lat":55.944144,  
+            "lng":98.028452,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Автоваз сервис",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 9-18, перерыв 13.00-14.00 суббота 10.00-16.00, без перерыва<br>т. 7 (39563) 2-20-36</div>",
+            "lat":55.934845, 
+            "lng":98.018391,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Планета",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 10.00-18.00, без перерыва суббота, воскресенье 10.00-15.00, без переыва<br>т. +7 (39563) 2-35-53</div>",
+            "lat":55.943555,  
+            "lng":98.030112,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Автомир",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 8.00-17.00, перерыв 12.00-13.00<br>т. +7 (39563) 2-44-34</div>",
+            "lat":55.926509,  
+            "lng":98.007833,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Акамуляторы",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<img src=\"http://taishettoday.ru/img/map/akam_map.jpg\"/><br></div>",
+            "lat":55.936542,   
+            "lng":98.014097,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Авто запчасти на Пушкина",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/avto_map.jpg\"/><br>Режим работы: с 9.00 - 18.00 обед с 13.00 - 14.00 суббота с 10.00 -15.00 воскресенье выходной</div>",
+            "lat":55.926378,   
+            "lng":98.007670,
+            "icon":"imges/icon/repair.png" 
+        },
+        {
+            "title": "Автоспейцсервис",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/avtoserv_map.jpg\"/><br>Режим работы: </div>",
+            "lat":55.919305,    
+            "lng":98.026148,
+            "icon":"imges/icon/repair.png" 
+        }
+         ]
+}

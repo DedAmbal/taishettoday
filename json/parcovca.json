@@ -1,0 +1,11 @@
+{
+    "places": [
+        {
+            "title": "Парковка на площади Юбилейной",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/parc_map.jpg\"/><br>Режим работы:пн-пт 8:00–18:00; т.24267</div>",
+            "lat":55.942850, 
+            "lng":98.022401,
+            "icon": "imges/icon/car.png"
+           }        
+    ]
+}

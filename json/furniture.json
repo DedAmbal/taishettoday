@@ -1,0 +1,60 @@
+{
+    "places": [
+        {
+            "title": "Эконом мебель",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:c 10.00 - 19.00; т.89248284702</div>",
+            "lat": 55.926713,
+            "lng": 98.008104,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Столплит",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:c 10.00 - 19.00; сайт:www.stolplit.ru</div>",
+            "lat": 55.935197, 
+            "lng": 97.988844,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Любимый дом",
+            "description": "<div style=\"text-align:center\">Режим работы:</div>",
+            "lat": 55.933219,
+            "lng": 98.047261,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Мебельный магазин \"Западный\"",
+            "description": "<div style=\"text-align:center\">Режим работы:с 10.00 - 19.00</div>",
+            "lat": 55.948028,
+            "lng": 97.988266,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Мебель на заказ",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat": 55.937276,
+            "lng": 97.993634,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Мебель на заказ",
+            "description": "<div style=\"text-align:center\">Режим работы:c 9.00 - 19.00</div>",
+            "lat": 55.939903,
+            "lng": 98.022053,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Тайга",
+            "description": "<div style=\"text-align:center\">Режим работы:c 9.30 - 19.00; обед 14.00 - 14.30</div>",
+            "lat": 55.937943,
+            "lng": 97.994133,
+             "icon": "imges/icon/villa.png"
+        },
+        {
+            "title": "Мебель на заказ",
+            "description": "<div style=\"text-align:center\">Режим работы:c 10.00 - 19.00; ВС:выходной</div>",
+            "lat": 55.940201, 
+            "lng": 98.004903,
+             "icon": "imges/icon/villa.png"
+        }
+    ]
+}

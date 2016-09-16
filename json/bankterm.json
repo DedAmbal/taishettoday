@@ -1,0 +1,74 @@
+{
+    "places": [
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.937302, 
+            "lng": 98.020441,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.937448,  
+            "lng": 98.019422,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.933245, 
+            "lng": 98.040348,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.933245, 
+            "lng": 98.040348,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат сбербанка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.944145,  
+            "lng": 98.008265,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.935817,  
+            "lng": 98.017642,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат Россельхоз банка",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.934449,  
+            "lng": 98.030079,
+            "icon":"imges/icon/bank.png"
+        },
+         {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.939254,  
+            "lng": 98.000844,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.940179,   
+            "lng": 98.004866,
+            "icon":"imges/icon/bank.png"
+        },
+        {
+            "title": "Банкомат ВТБ",
+            "description": "<div style=\"text-align:center; width: 250px;\"></div>",
+            "lat": 55.939911,   
+            "lng": 98.003377,
+            "icon":"imges/icon/bank.png"
+        }
+    ]
+}

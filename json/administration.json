@@ -1,0 +1,102 @@
+{
+    "places": [
+         {
+            "title": "Администрация Тайшетского района",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ЧТ 10.45-19.45 СБ 8.00-17.00 обед 14.30-15.30 ВС ПТ: выходной<br>Телефон:(39563)2-03-84<br>Адресс:ул.Суворова, 13</div>",
+            "lat":55.941175, 
+            "lng":98.024098,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Управление страительства, архитектуры и инвестиционной политики",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:+7 (39563) 20922<br>Адресс: ул.Суворова, 15</div>",
+            "lat":55.941305,
+            "lng":98.024885,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Управление министерства социального развития, опеки и попечительства",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН-ЧТ 9.00-18.00 СБ 9.00-14.00 обед 14.30-15.30 ВС ПТ: выходной</div>",
+            "lat":55.935143, 
+            "lng":98.044110,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Управление образования",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/obr.jpg\"/><br>Адресс: Суворова, 10<br>Режим работы:+7 (39563) 2-47-67 (Методический кабинет)</div>",
+            "lat":55.938668, 
+            "lng":98.019645,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Управление здравоохранения",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:+7 (39563) 2-03-71<br>Адресс:ул Кирова, 137</div>",
+            "lat":55.925558, 
+            "lng":98.012878,
+            "icon": "imges/icon/administration.png"
+           },
+            {
+            "title": "УФРС в Тайшете",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:+7 (39563) 2-10-06</div>",
+            "lat":55.943364, 
+            "lng":98.003213,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Государственный пенсионный фонд",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/pensiya.jpg\"/><br>Режим работы:ПН-ЧТ с 9:00–18:00 ПТ 9:00–16:45 <br>Телефон:т.+7 (39563) 2-10-46<br>Адрес:ул. Гагарина, 119</div>",
+            "lat":55.937127, 
+            "lng":98.022700,
+            "icon": "imges/icon/administration.png"
+           },
+            {
+            "title": "ЗАГС",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы: <br>Телефон:т.+7 (39563) 2-06-32<br>Адресс: Рабочая улица, 31</div>",
+            "lat":55.939482,
+            "lng":98.010369,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Тайшетский городской суд",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.941218, 
+            "lng":98.024097,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Военкомат",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:<br>Телефон:т.+7 (39563) 2-06-32 (дежурный)<br>Адресс:ул. Горького,13</div>",
+            "lat":55.940677,
+            "lng":98.020617,
+            "icon": "imges/icon/administration.png"
+           },
+            {
+            "title": "Отел занятости населения",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН -ПТ 8.00-17.00 , перерыв 12.00-13.00<br>Телефоны: т.+7 (39563) 2-21-92 (отдел статистики);<br> +7 (39563) 5-33-33 (приемная, директор, зам. директора);<br> +7 (39563) 5-30-41 (4 кабинет отдел трудоустройства)<br>Адресс: Транспортная улица, 26</div>",
+            "lat":55.937892, 
+            "lng":98.005988,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Отел по молодежной политике",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:понедельник - пятница 8.00-17.00 , перерыв 12.00-13.00<br>Телефон: т.+7 (39563) 2-29-49<br>Адресс:улица Свободы, 4</div>",
+            "lat":55.935513,  
+            "lng":98.029637 ,
+            "icon": "imges/icon/administration.png"
+           },
+            {
+            "title": "Территориальный фонд объязательного медицинского строхования",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:ПН ЧТ 9.00-18.00, ПТ 9.00-17.00 перерыв 13.00-14.00 ВС СБ выходные</div>",
+            "lat":55.923648, 
+            "lng":97.974369,
+            "icon": "imges/icon/administration.png"
+           },
+           {
+            "title": "Управление миграционной службой",
+            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/migrant_map.jpg\"/><br>Режим работы:ПН 9.00-15.00 обед с 13.00-14.00, ВТ 9.00-18.00 обед 13.00-14.00, СР 9.00-13.00, ЧТ не приемный день, ПТ 9.00-15.00 обед 13.00-14.00, СБ 9.00-13.00, ВС выходной</div>",
+            "lat":55.943332,   
+            "lng":98.026081,
+            "icon": "imges/icon/administration.png"
+           }                                 
+    ]
+}

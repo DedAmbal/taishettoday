@@ -1,0 +1,11 @@
+{
+    "places": [
+         {
+            "title": "Глория",
+            "description": "<div style=\"text-align:center; width: 250px;\"><br>Режим работы:<br>ул.Шевченко,6<br>тел.2-32-71</div>",
+            "lat":55.935995, 
+            "lng":98.025656,
+            "icon": "http://google-maps-icons.googlecode.com/files/perfumery.png"
+           }
+           ]
+}

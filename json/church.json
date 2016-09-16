@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "title": "Петропавловский храм в Тайшете",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.930155, 
+            "lng":98.012653,
+            "icon": "imges/icon/church-2.png" 
+        },
+        {
+            "title": "Xрам в Тайшете",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.943604, 
+            "lng":98.024992,
+            "icon": "imges/icon/church-2.png" 
+        },
+        {
+            "title": "Церковь, собор в Бирюсинске",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.964962,
+            "lng":97.826881,
+            "icon": "imges/icon/church-2.png" 
+        },
+        {
+            "title": "Церковь, собор в Бирюсинске",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.958073, 
+            "lng":97.807159,
+            "icon": "imges/icon/church-2.png" 
+        }
+         ]
+}

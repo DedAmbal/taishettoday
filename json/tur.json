@@ -1,0 +1,19 @@
+{
+    "places": [
+        {
+            "title": "Туристическое агентство «Гранд тур»",
+            "description": "<div style=\"text-align:center; width: 250px;\"><dr>т(39563) 2-21-13, +7 952 635-11-35</div>",
+            "lat":55.939305,     
+            "lng":98.018899,
+             "icon": "imges/icon/country.png"
+        },
+        {
+            "title": "Туристическое агентство «Полярная Звезда»",
+            "description": "<div style=\"text-align:center\"><dr>т.(39563) 5-26-60, +7 950 103-84-58</div>",
+            "lat": 55.942015,
+            "lng": 98.000801,
+             "icon": "imges/icon/country.png"
+        }
+         ]
+}
+ 

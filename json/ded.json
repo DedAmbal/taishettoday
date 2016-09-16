@@ -1,0 +1,18 @@
+{
+    "places": [
+        {
+            "title": "Салон ретуальных услуг",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 18.00 т.89501131791</div>",
+            "lat":55.937893,  
+            "lng": 98.009612,
+            "icon":"http://google-maps-icons.googlecode.com/files/car.png" 
+        },
+       {
+            "title": "Салон ретуальных услуг",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:с 9.00 - 17.00 т.89501215117</div>",
+            "lat":55.957064,   
+            "lng":97.992687,
+            "icon":"http://google-maps-icons.googlecode.com/files/car.png" 
+        } 
+         ]
+}

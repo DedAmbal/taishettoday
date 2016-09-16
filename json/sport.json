@@ -1,0 +1,46 @@
+{
+    "places": [
+        {
+            "title": "Стадион \"Локомотив\"",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.929257,    
+            "lng":98.011477,
+             "icon":"imges/icon/sport.png"
+        },
+         {
+            "title": "Стадион \"Тонус\"",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.940446,    
+            "lng":98.009057,
+             "icon":"imges/icon/sport.png"
+        },
+        {
+            "title": "Секция Бокса",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.936360,    
+            "lng":97.991908,
+            "icon":"imges/icon/sport.png"
+        },
+         {
+            "title": "Тренажорный зал в гостинице \"Бирюса\"",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:</div>",
+            "lat":55.940895,     
+            "lng":98.002752,
+             "icon":"imges/icon/sport.png"
+        },
+        {
+            "title": "Бассеин в \"Кедре\"",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:9.00-21.00 обед с 12.00-13.00</div>",
+            "lat":55.941621,   
+            "lng":98.007381,
+            "icon":"imges/icon/sport.png" 
+        },
+        {
+            "title": "Бассеин в Бирюсинске",
+            "description": "<div style=\"text-align:center; width: 250px;\">Режим работы:10.00-23.00, каждый первый понедельник санитарный день т.83956371333</div>",
+            "lat":55.963625,  
+            "lng":97.810256,
+            "icon":"imges/icon/sport.png"  
+        }
+         ]
+}
