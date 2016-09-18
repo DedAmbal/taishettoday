@@ -6,7 +6,7 @@
 	<ul class="aside-menu">
 	<?php 
 	$db = new PDO("sqlite:admin/post3.db");
-  	$res = $db->query("SELECT COUNT(id) FROM afisha WHERE name_tipe = 'постоянные события';");
+  	$res = $db->query("SELECT COUNT(id) FROM afisha WHERE name_tipe = 'мероприятия';");
   	$resTwo = $db->query("SELECT COUNT(id) FROM afisha WHERE name_tipe = 'кино';");
   	$resThree = $db->query("SELECT COUNT(id) FROM afisha WHERE name_tipe = 'сауны';");
   	$resFore = $db->query("SELECT COUNT(id) FROM afisha WHERE name_tipe = 'спорт';");

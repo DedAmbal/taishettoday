@@ -2,7 +2,7 @@
 <section>
 	<?php 
     $db = sqlite_open("admin/post.db");
-  	$res = sqlite_query($db, "SELECT * FROM afisha WHERE name_tipe = 'постоянные события';");
+  	$res = sqlite_query($db, "SELECT * FROM afisha WHERE name_tipe = 'мероприятия';");
 	while ($array = sqlite_fetch_array($res)) {
 		$block_img = $array['img'];
 		$block_zag = $array['zag'];
