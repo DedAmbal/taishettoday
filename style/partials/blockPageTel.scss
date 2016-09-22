@@ -1,0 +1,13 @@
+.pageTelBlock{
+	display:inline-block;
+    box-sizing:content-box;
+    width:95%; 
+	min-height:850px;
+    text-overflow:ellipsis;
+    box-shadow:3px 3px 6px 0 rgba(140,140,140,1);
+    border:1px solid rgba(140,140,140,1);
+    margin:15px 0 0 5px;
+    padding:10px;
+    border-radius:4px;
+    font:normal 16px/1 "Times New Roman",Times,serif;
+}

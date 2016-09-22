@@ -102,4 +102,6 @@ body /*Задний фон сайта*/
     border: 1px solid Blue;
 	padding:10px;
 }
-
+.author {
+    font-size: 14px;
+  }

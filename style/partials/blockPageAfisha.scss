@@ -1,0 +1,70 @@
+.pageAfishaBlock{
+	display:inline-block;
+    box-sizing:content-box;
+    width:80%;
+    min-height:300px;
+    text-overflow:ellipsis;
+    box-shadow:3px 3px 6px 0 rgba(140,140,140,1);
+    border:1px solid rgba(140,140,140,1);
+    margin:15px 0 0 5px;
+    padding:10px;
+    border-radius:4px;
+    font:normal 16px/1 "Times New Roman",Times,serif;
+}
+.imgAfishaBlock{
+	width:220px;
+    height:300px;
+    float:left;
+    margin:5px;
+   
+}
+.spravkaAfisha{
+	color:#000;
+    font-size:100%;
+    line-height:20px;
+    text-align:left;
+    width: 100%;
+    margin-left: 16px;
+    position: static;
+}
+.spravkaAfisha span{
+	margin-left:10%;
+}
+.banknote, .celendar, .situation, .tel{
+	  position: absolute;
+	  width:16px;
+	  height:16px;
+}
+.banknote{
+	background:url(/imges/afisha.png) no-repeat 0px 0;
+}
+.celendar{
+	background:url(/imges/afisha.png) no-repeat -16px 0;
+}
+.situation{
+	background:url(/imges/afisha.png) no-repeat -32px 0;
+}
+.tel{
+	background:url(/imges/afisha.png) no-repeat -48px 0;
+}
+.contentAfishaBlock{    
+    padding:5px;
+    display:inline-block;
+    overflow-x: hidden;
+    width:55%;
+    height:70%
+}
+.contentAfishaBlock a{
+	float:right;
+	color:FFF;
+	width:120px;
+	padding:4px;
+	font:normal 15px/1 "Times New Roman", Times, serif;
+	text-align:center;
+	border-radius:5px;
+	height:20px;
+	background:#29c5e6;
+}
+.headerAfisha{
+	font: normal 20px/1 "Times New Roman", Times, serif;
+}

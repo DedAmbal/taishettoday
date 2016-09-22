@@ -6,6 +6,7 @@
   	$res = $db->query("SELECT * FROM afisha WHERE id;");
 	foreach ($res as $array) {
 		$block_img = $array['img'];
+		$block_bigimg = $array['big'];
 		$block_zag = $array['zag'];
 		$block_time = $array['time'];
 		$block_place = $array['place'];
@@ -15,7 +16,8 @@
         $block_tipe = $array['name_tipe'];
     echo("<div class=\"row\">");  
     echo("<div class=\"example-1 card\">");
-    echo("<div class=\"wrapper\">");
+    echo("<div class=\"wrapper\" style=\"background: url(".$block_bigimg.") center / cover no-repeat;\">");
+    
     echo("<div class=\"date\">");
     echo("<span class=\"day\">".$block_tipe."</span>");
     echo("</div>");

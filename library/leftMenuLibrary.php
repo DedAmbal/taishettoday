@@ -1,6 +1,4 @@
-<div id="heading">
-	<h1>Библиотека</h1>
-</div>
+
 <aside>
 <nav>
 <ul class="aside-menu">

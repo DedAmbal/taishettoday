@@ -10,7 +10,11 @@ echo'<ul class="top-menu">
 		if($get_in==0){ echo 'style="color:#29c5e6;"'; }
 		echo '>'.$menu[0][0].'</a></li><li><a href="'.$menu[1][1].'"';
 		if($get_in==1){ echo 'style="color:#29c5e6;"'; }
-		echo '>'.$menu[1][0].'</a></li><li><a href="'.$menu[2][1].'"';
+		echo '>'.$menu[1][0].'</a></li>
+		<li><a href="'.$menu[6][1].'"';
+		if($get_in==6){ echo 'style="color:#29c5e6;"'; }
+		echo '>'.$menu[6][0].'</a></li>
+		<li><a href="'.$menu[2][1].'"';
 		if($get_in==2){ echo 'style="color:#29c5e6;"'; }
 		echo '>'.$menu[2][0].'</a></li><li><a href="'.$menu[3][1].'"';
 		if($get_in==3){ echo 'style="color:#29c5e6;"'; }

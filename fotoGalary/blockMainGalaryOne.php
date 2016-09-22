@@ -1,6 +1,3 @@
-<div id="heading">
-	<h1>Фото галерея</h1>
-</div>
 
 <div class="pageGalaryBlock">
 <a href="galary_yarmarka.php">

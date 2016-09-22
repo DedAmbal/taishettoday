@@ -1,0 +1,48 @@
+aside {
+	float: left;
+	width: 250px;
+	
+}
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+}
+.aside-menu li {
+	position:relative;
+	font-weight: 300;
+	list-style-type: square;
+	border-top: 1px solid #e5e5e7;
+}
+
+.aside-menu li:first-child {
+	border: none;
+}
+
+.aside-menu a.active {
+	color: #29c5e6;
+}
+.active {
+	color: #29c5e6;
+}
+.aside-menu a:hover {
+    text-decoration:underline
+}
+.aside-menu a {
+	color: #8f8f8f;
+}
+.blueBlock {
+  width: 30px;
+  height: 20px;
+  position:absolute;
+  left:200px;
+  bottom:-20px;
+  padding:4px;
+  -webkit-border-radius: 15px;
+  border-radius: 15px;
+  font: normal 14px/1 "Times New Roman", Times, serif;
+  color: rgba(255,255,255,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: #0dbfe5;
+}

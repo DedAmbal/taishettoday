@@ -1,6 +1,4 @@
-<div id="heading">
-	<h1>Карта Тайшета</h1>
-</div>
+
 <div class="mapLeftMap">
 <nav>
 	<ul class="aside-menu" style="display:none;" id="id1">

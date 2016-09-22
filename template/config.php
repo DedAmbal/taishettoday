@@ -13,12 +13,15 @@ $beta = $_SERVER['REQUEST_URI'];
   $menu[4][1]='/galary.php';
   $menu[5][0]='Телефоны';
   $menu[5][1]='/telefon.php';
+  $menu[6][0]='Карта';
+  $menu[6][1]='/map.php';
   
   if(strripos($beta, $menu[0][1])!==false) { $title_two = "Главная страница"; $get_in = 0; }
   if(strripos($beta, $menu[1][1])!==false) { $title_two = "Афиша"; $get_in = 1; }
+  if(strripos($beta, $menu[6][1])!==false) { $title_two = "Карта Тайшета"; $get_in = 6; }
   if(strripos($beta, $menu[2][1])!==false) { $title_two = "Библиотека Тайшета"; $get_in = 2; }
   if(strripos($beta, $menu[3][1])!==false) { $title_two = "Расписания в Тайшете"; $get_in = 3; }
-  if(strripos($beta, $menu[4][1])!==false) { $title_two = "Фотоотчеты Тайшета"; $get_in = 4; }
+  if(strripos($beta, $menu[4][1])!==false) { $title_two = "Фото галерея Тайшета"; $get_in = 4; }
   if(strripos($beta, $menu[5][1])!==false) { $title_two = "Телефоны Тайшета"; $get_in = 5; }
   
    $db = new PDO("sqlite:admin/post3.db");

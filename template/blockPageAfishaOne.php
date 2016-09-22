@@ -1,7 +1,6 @@
 
 <section>
 	<?php 
-	
     $db = new PDO("sqlite:admin/post3.db");
   	$res = $db->query("SELECT * FROM afisha WHERE name_tipe = 'кино';");
 	foreach ($res as $array) {
@@ -28,7 +27,6 @@
 		 echo("</div>");
 		 echo("</div>");
 		 }
-		
 	?>
 </section>
 

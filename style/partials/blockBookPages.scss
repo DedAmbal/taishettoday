@@ -1,0 +1,53 @@
+.pageBookBlockMain{
+	display:inline-block;
+    box-sizing:content-box;
+    width:97%;
+    text-overflow:ellipsis;
+    box-shadow:3px 3px 6px 0 rgba(140,140,140,1);
+    border:1px solid rgba(140,140,140,1);
+    margin:0 0 0 5px;
+    padding:10px;
+    border-radius:4px;
+    font:normal 16px/1 "Times New Roman",Times,serif;
+}
+.pageBookBlock{
+	display:inline-block;
+    box-sizing:content-box;
+    width:71%;
+    text-overflow:ellipsis;
+    box-shadow:3px 3px 6px 0 rgba(140,140,140,1);
+    border:1px solid rgba(140,140,140,1);
+    margin:0 0 0 5px;
+    padding:10px;
+    border-radius:4px;
+    font:normal 16px/1 "Times New Roman",Times,serif;
+}
+.smallBlogArticle{
+    box-sizing:content-box;
+    width: 91%;
+    padding:10px;
+    margin-bottom:10px;
+    overflow:hidden;
+    font:normal normal normal 16px/18px Arial,Times,serif;
+    color:rgba(90,90,90,1);
+    text-align:left;
+    display: inline-block;
+    vertical-align: top;
+}
+.zagolPages{
+	font:normal normal normal 20px/22px Arial,Times,serif;
+    color:rgba(90,90,90,1);
+    text-align:center;
+    padding:5px;
+}
+.zagol{
+	font:normal normal normal 20px/22px Arial,Times,serif;
+}
+.textPageBook{
+	font:normal normal normal 16px/18px Arial,Times,serif;
+	color:rgba(90,90,90,1);
+}
+.linkBooks{
+	font:normal normal normal 20px/22px Arial,Times,serif;
+	float:right;
+}

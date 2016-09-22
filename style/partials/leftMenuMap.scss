@@ -1,0 +1,37 @@
+.mapLeftMap {
+	float: left;
+	width: 250px;
+	height:500px;
+	vertical-align:top;
+    display:inline-block;
+    overflow-x:hidden;
+}
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+}
+.aside-menu li {
+	font-weight: 300;
+	list-style-type: square;
+	border-top: 1px solid #e5e5e7;
+}
+
+.aside-menu li:first-child {
+	border: none;
+}
+
+.aside-menu li.active {
+	color: #29c5e6;
+}
+
+.aside-menu a {
+	display:block;
+	color: #8f8f8f;
+}
+.aside-menu > a:hover {
+    
+    color:#8f8f8f
+}
+.aside-menu > a.active {
+    color: #29c5e6;
+}
