@@ -6,6 +6,7 @@
 	<h3>Карта сайта</h3>
 	<div>
 		<a href="index.php">Главная</a>
+		<a href="map.php">Карта</a>
 		<a href="afisha.php">Афиша</a>
 		<a href="library.php">Библиотека</a>
 	</div>

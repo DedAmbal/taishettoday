@@ -1,19 +1,16 @@
 
 <section>
-	<div class="pageAfishaBlock">
-		<div class="imgAfishaBlock">
-			<img alt="Затерянные памятники" title="Затерянные памятники" src=
-                "/imges/book.jpg" >
-                 <p>Автор:Булыгин Г.В.</p>
-		</div>
-		<div class="contentAfishaBlock">
-			<p class="headerAfisha">Описание Статьи</p>
-                <hr>
-                <p>Статья Г.В.Булыгина о найденных им дореволюционных памятниках Транссиба</p>
-                <p><a href="zateryannye_pamyatniki.php">Читать статью</a></p>  
-		</div>
+	<div class="blog-card alt">
+	<div class="photo" style="background: url(/imges/book.jpg) center / cover no-repeat;"></div>
+	<ul class="details">
+		<li class="author">Автор:</li>
+		<li class="date">Год издания:</li>
+	</ul>
+	<div class="description">
+		<h1>Описание книги</h1>
+		<h2>Затерянные памятники</h2>
+		<p class="summary">Статья Г.В.Булыгина о найденных им дореволюционных памятниках Транссиба</p>
+		<a href="zateryannye_pamyatniki.php">Читать книгу</a>
 	</div>
+</div>
 </section>
-
-
-

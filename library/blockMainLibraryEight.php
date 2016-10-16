@@ -1,19 +1,16 @@
 
 <section>
-	<div class="pageAfishaBlock">
-		<div class="imgAfishaBlock">
-			<img alt="Он тогда не вернулся из боя" title="Он тогда не вернулся из боя" src=
-                "/imges/Larionov.jpg" >
-                 <p>Автор:МКУ «Библиотечное объединение» Тайшетского городского поселения</p>
-		</div>
-		<div class="contentAfishaBlock">
-			<p class="headerAfisha">Описание Книги</p>
-                <hr>
-             <p>Библиографический очерк к 25-летию со дня гибели в Нагорном Карабахе тайшетца полковника Олега Ларионова.</p> 
-             <p><a href="Larionov.php">Читать книгу</a></p>  
-		</div>
+	<div class="blog-card alt">
+	<div class="photo" style="background: url(/imges/Larionov.jpg) center / cover no-repeat;"></div>
+	<ul class="details">
+		<li class="author">Автор:Булыгин В.Г.</li>
+		<li class="date">Год издания:</li>
+	</ul>
+	<div class="description">
+		<h1>Описание книги</h1>
+		<h2>Он тогда не вернулся из боя</h2>
+		<p class="summary">Библиографический очерк к 25-летию со дня гибели в Нагорном Карабахе тайшетца полковника Олега Ларионова.</p>
+		<a href="Larionov.php">Читать книгу</a>
 	</div>
+</div>
 </section>
-
-
-
