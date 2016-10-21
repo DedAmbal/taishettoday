@@ -15,10 +15,10 @@
 		 echo("<div class=\"blog-card alt\">");
 	     echo("<div class=\"photo\" style=\"background: url(".$block_img.") center / cover no-repeat;\"></div>");
 	     echo("<ul class=\"details\">");
-		 echo("<li class=\"author\">".$block_tel."</li>");
-		 echo("<li class=\"date\">".$block_money."</li>");
-		 echo("<li class=\"author\"><a href=\"#\">".$block_place."</a></li>");
-		 echo("<li class=\"date\">".$block_time."</li>");
+		 echo("<li><a href=\"#\" class=\"tel2\"></a><span>".$block_tel."</span></li>");
+		 echo("<li><a href=\"#\" class=\"banknote2\"></a><span>".$block_money."</span></li>");
+		 echo("<li><a href=\"#\" class=\"situation2\"></a><span>".$block_place."</span></li>");
+		 echo("<li><a href=\"#\" class=\"celendar2\"></a><span>".$block_time."</span></li>");
 		 echo("</ul>");
 		 echo("<div class=\"description\">");
 		 echo("<h1>".$block_zag."</h1>");
