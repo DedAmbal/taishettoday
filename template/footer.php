@@ -9,8 +9,6 @@
 		<a href="map.php">Карта</a>
 		<a href="afisha.php">Афиша</a>
 		<a href="library.php">Библиотека</a>
-	</div>
-	<div>
 		<a href="raspisaniya_avtobusov_taishet.php">Расписания</a>
 		<a href="galary.php">Фото галерея</a>
 		<a href="telefon.php">Телефоны</a>
