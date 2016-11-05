@@ -2,7 +2,7 @@
 <section>
 	<?php 
     $db = new PDO("sqlite:admin/post3.db");
-  	$res = $db->query("SELECT * FROM afisha WHERE name_tipe = 'мероприятия';");
+  	$res = $db->query("SELECT * FROM afisha ORDER BY name_tipe DESC WHERE name_tipe = 'мероприятия';");
 	foreach ($res as $array) {
 		$block_img = $array['img'];
 		$block_zag = $array['zag'];

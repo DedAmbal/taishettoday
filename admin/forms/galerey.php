@@ -73,8 +73,8 @@ if ($_GET['prewi']=="dobi")
               <script type="text/javascript"> 
                function preview(img, selection) 
                         {
-                    var scaleX = 337 / (selection.width || 1);
-                    var scaleY = 260 / (selection.height || 1);
+                    var scaleX = 360 / (selection.width || 1);
+                    var scaleY = 400 / (selection.height || 1);
                        $('#photo + div > img').css({
                         width: Math.round(scaleX * <? echo "$del_two_w"; ?>) + 'px',
                         height: Math.round(scaleY * <? echo "$del_two_w"; ?>) + 'px',
@@ -88,13 +88,13 @@ if ($_GET['prewi']=="dobi")
                          float: 'left',
                          position: 'relative',
                          overflow: 'hidden',
-                         width: '337px',
-                         height: '260px',
+                         width: '360px',
+                         height: '400px',
                          color: '#6c6c6c'
                         }) .insertAfter($('#photo')); 
 						
                        $('#photo').imgAreaSelect({
-                                   aspectRatio: '337:260',
+                                   aspectRatio: '360:400',
                                    handles: true,
                                    onSelectChange: preview,
                                    onSelectEnd: function ( image, selection ) {
@@ -132,8 +132,8 @@ if ($_GET['crop']=="yes")
       $h = $_POST['h'];     
       //die(print_r($_POST));
       // This will be the final size of the image
-      $crop_width = 337;
-      $crop_height = 260;
+      $crop_width = 360;
+      $crop_height = 400;
       // Create our small image
       $new = imagecreatetruecolor($crop_width, $crop_height);
       // Create original image

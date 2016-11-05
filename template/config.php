@@ -39,7 +39,7 @@ echo '<title>'.$page_title.'</title>';
 echo '<link rel="icon" href="/favicon.png">';
 echo '<meta name="description" content="'.$page_description.'"/>';
 echo '<meta name="keywords" content="'.$page_keywords.'"/>';
-echo '<script type="text/javascript" src="/js/main.js"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><script src="jquery.validate.pack.js" type="text/javascript"></script>';
 echo '<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"><link rel="stylesheet" href="/css/main.css" type="text/css"/><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto|Noto+Serif|Open+Sans:300,400,700">';
+echo '<script type="text/javascript" src="/js/main.js"></script><script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><script src="jquery.validate.pack.js" type="text/javascript"></script>';
 echo '</head><body>';
 ?>

@@ -32,7 +32,7 @@ if($results === false) echo "Вы задали пустой запрос";
 if(count($results) == 0) echo "Ничего не найдено";
 else
 	for($i = 0; $i < count($results); $i++)
-		echo "<h3><a href=\"http://build:90".$results[$i]['page']."\">".$results[$i]['title']."</a></h3><br />";
+		echo "<h3><a href=\"http://taishettoday.ru".$results[$i]['page']."\">".$results[$i]['title']."</a></h3><br />";
 }
 
 ?>

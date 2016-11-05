@@ -23,7 +23,8 @@
 	 
 	 <tr><td height="40px"><font class="shrift-stock">Стоимость:</font></td></tr>
 	 <tr><td align="left"><textarea type="text" name="money" class="textarea-z"></textarea></td></tr>
-	 
+	 <tr><td height="40px"><font class="shrift-stock">Ссылка на страницу:</font></td></tr>
+	 <tr><td align="left"><textarea type="text" name="adress" class="textarea-z"></textarea></td></tr>
 	 <tr><td colspan="2" align="center" height="40px"><input type="submit" name="knopka" value="Добавить события" /></td></tr>
      <tr><td bgcolor="#ECECEC" height="2px" colspan="2" width="100%"></td></tr>
     </table>  

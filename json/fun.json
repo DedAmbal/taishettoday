@@ -65,7 +65,7 @@
         },
         {
             "title": "Городская баня",
-            "description": "<div style=\"text-align:center; width: 250px;\"><img src=\"http://taishettoday.ru/imges/map/banya.jpg\"/><br>Режим работы:с 12.00-до 18.00 Вт.Чт.Сб. - мужской день, Ср, Пт, Вс - женский день</div>",
+            "description": "<div style=\"text-align:center; width: 250px;\"><br>Режим работы:с 12.00-до 18.00 Вт.Чт.Сб. - мужской день, Ср, Пт, Вс - женский день</div>",
             "lat":55.940074,  
             "lng":98.024660,
             "icon": "imges/icon/smiley_happy.png"  

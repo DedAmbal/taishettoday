@@ -5,7 +5,7 @@
  <tr><td>Выбрать событие:</td></tr>
 <?
  include_once("conf.php");
- $db = $conn;
+  $db = $conn;
   $res = $db->query("SELECT * FROM afisha ORDER BY id;");
    foreach ($res as $array)
 			   {
@@ -16,7 +16,8 @@
 <tr><td>Время когда произойдет: </td><td><textarea name=\"timeist\" class=\"textarea-z\">".$array['time']."</textarea></td></tr>
 <tr><td>Где будет событие: </td><td><textarea name=\"place\" class=\"textarea-z\">".$array['place']."</textarea></td></tr>
 <tr><td>Контакты:</td><td><textarea name=\"tel\" class=\"textarea-z\">".$array['tel']."</textarea></td></tr>
-<tr><td>Цена: </td><td><textarea name=\"money\" class=\"textarea-z\">".$array['money']."</textarea></td></tr>           
+<tr><td>Цена: </td><td><textarea name=\"money\" class=\"textarea-z\">".$array['money']."</textarea></td></tr>
+<tr><td>Ссылки на страницу: </td><td><textarea name=\"adress\" class=\"textarea-z\">".$array['adress']."</textarea></td></tr>           
 <tr><td><input type=\"submit\" value=\"Редактировать\"/></td></tr></form><tr><td><a href=\"dob.php?afisha=red_afisha&delete=click&nomer=".$array['id']."\">Удалить событие</a></td></tr></table></div>");
 			   }		   
 ?>
@@ -40,13 +41,15 @@
 	  $telfor = $_POST['tel'];
 	  $moneyfor = $_POST['money'];
 	  $view = $_POST['name_tipe'];
+	  $adress = $_POST['adress'];
 	  $db->query("UPDATE afisha SET zag='$zagal' WHERE id=$numer ;");
 	  $db->query("UPDATE afisha SET tipe='$ositext' WHERE id=$numer ;");
 	  $db->query("UPDATE afisha SET time='$timefor' WHERE id=$numer ;");
 	  $db->query("UPDATE afisha SET place='$placefor' WHERE id=$numer ;");
 	  $db->query("UPDATE afisha SET tel='$telfor' WHERE id=$numer ;");
 	  $db->query("UPDATE afisha SET money='$moneyfor' WHERE id=$numer ;");
-	  $db->query("UPDATE afisha SET name_tipe='$view' WHERE id=$numer ;");	
+	  $db->query("UPDATE afisha SET name_tipe='$view' WHERE id=$numer ;");
+	  $db->query("UPDATE afisha SET adress='$adress' WHERE id=$numer ;");		
       echo '<script type="text/javascript"> function bodyOnLoad() { window.setTimeout(goToOtherPage, 1000); } function goToOtherPage() { window.location.href = "dob.php?afisha=red_afisha"; } </script>';
 }
 ?>

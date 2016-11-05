@@ -36,8 +36,8 @@
 	   if ($_GET['afisha']=="red_afisha") { include "forms/red_afisha.php"; } 
        if ($_GET['stock']=="dob") { include "forms/form.php"; } // форма добавления Новости
        if ($_GET['stock']=="red") { include "forms/red.php"; } // форма редактирования Новости
-       /*if ($_GET['map']=="click") { include "forms/form_map.php"; } // форма добавления метки на карту
-       if ($_GET['map']=="red_map") { include "forms/red_map.php"; } // форма редактирования метки на карте*/
+       if ($_GET['foto']=="click") { include "forms/foto.php"; } // форма добавления метки на карту
+       if ($_GET['foto']=="red_foto") { include "forms/red_foto.php"; } // форма редактирования метки на карте
 	   if ($_GET['admin']=="exit") // Выход из админки
           {
           	$_SESSION['login'] = "1";
@@ -64,25 +64,28 @@
 			   $tel = $_POST['tel'];
 			   $money = $_POST['money'];
 			   $view = $_POST['name_tipe'];
+			   $adress = $_POST['adress'];
 			   }                
-               $query_insert = $db->query("INSERT INTO afisha(name_tipe, img, zag, date, time, place, tel, money, tipe) VALUES ('$view' ,'$img', '$zagolovok', '$date', '$time', '$place', '$tel', '$money', '$text');");	
+               $query_insert = $db->query("INSERT INTO afisha(name_tipe, img, zag, date, time, place, tel, money, tipe, adress) VALUES ('$view' ,'$img', '$zagolovok', '$date', '$time', '$place', '$tel', '$money', '$text', '$adress');");	
     
                if ($query_insert) { echo ('<font class="shrift-stock">&nbsp;&nbsp;Событие добавлено.&nbsp;&nbsp;</font>'); }
                }
           }  
           // ------------ Обработка и добавление меток на карту ---------------- 
-         /* if ($_GET["map"]=="action")
+          if ($_GET["foto"]=="action")
           {
 		  	$db = $conn;
 		  	if (!$db) { echo('<font class="shrift-stock">&nbsp;&nbsp;Не удалось открыть базу данных!</font>'); }
 				else{
-					$tipe = $_POST["map_tipe"];
-					$place = $_POST["json_map"];
+					$tipe = $_POST["foto_tipe"];
+					$title = $_POST["foto_title"];
+					$alt = $_POST["foto_alt"];
+					$img = $_POST["foto_img"];
 				}
-				 $query_insert = $db->query("INSERT INTO map(tipe, place) VALUES ('$tipe', '$place');");
-				 if ($query_insert) { echo ('<font class="shrift-stock">&nbsp;&nbsp;Метки добавлены.&nbsp;&nbsp;</font>'); }
+				 $query_insert = $db->query("INSERT INTO foto(tipe, title, alt, img) VALUES ('$tipe', '$title', '$alt', '$img');");
+				 if ($query_insert) { echo ('<font class="shrift-stock">&nbsp;&nbsp;Фото добавлены.&nbsp;&nbsp;</font>'); }
 		  }
-          */
+          
           
           // ------------ Обработка и добавление пунктов меню ----------------       
        if ($_GET['menu']=="action") 

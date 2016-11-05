@@ -17,7 +17,7 @@ include_once("conf.php");
 ?>
 </table> 
 <?  if($_GET['delete']=="click") {
-      $numer = $_GET['id'];
+      $numer = $_GET['nomer'];
 	  $res = $db->query("SELECT * FROM tel WHERE id=$numer ;");
 	foreach ($res as $array)  
          {
@@ -31,9 +31,9 @@ include_once("conf.php");
 	  $org = $_POST['org'];
 	  $adress = $_POST['adress'];
 	  $tel_nom = $_POST['tel_nom'];
-	  $db->query("UPDATE tel SET org='$org' WHERE id=$numer ;");
-	  $db->query("UPDATE tel SET adress='$adress' WHERE id=$numer ;");
-	  $db->query("UPDATE tel SET tel_nom='$tel_nom' WHERE id=$numer ;");	
+	  $db->query("UPDATE tel SET org='$org' WHERE id=$numer;");
+	  $db->query("UPDATE tel SET adress='$adress' WHERE id=$numer;");
+	  $db->query("UPDATE tel SET tel_nom='$tel_nom' WHERE id=$numer;");	
       echo '<script type="text/javascript"> function bodyOnLoad() { window.setTimeout(goToOtherPage, 1000); } function goToOtherPage() { window.location.href = "dob.php?tel=red_tel"; } </script>';
 }
 ?>

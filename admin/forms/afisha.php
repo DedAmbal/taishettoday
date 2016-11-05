@@ -73,8 +73,8 @@ if ($_GET['prewi']=="dobi")
               <script type="text/javascript"> 
                function preview(img, selection) 
                         {
-                    var scaleX = 337 / (selection.width || 1);
-                    var scaleY = 260 / (selection.height || 1);
+                    var scaleX = 220 / (selection.width || 1);
+                    var scaleY = 200 / (selection.height || 1);
                        $('#photo + div > img').css({
                         width: Math.round(scaleX * <? echo "$del_two_w"; ?>) + 'px',
                         height: Math.round(scaleY * <? echo "$del_two_w"; ?>) + 'px',
