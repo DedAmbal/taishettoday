@@ -14,10 +14,9 @@
         $block_text = $array['tipe'];
         $block_tipe = $array['name_tipe'];
         $block_adress = $array['adress'];
-    echo("<div class=\"row\">");  
+    echo("<div class=\"row\">");
     echo("<div class=\"card\">");
     echo("<div class=\"wrapper\" style=\"background: url(".$block_img.") center / cover no-repeat;\">");
-    
     echo("<div class=\"date\">");
     echo("<span>".$block_tipe."</span>");
     echo("</div>");
@@ -37,7 +36,3 @@
 	  }
 ?>
 </div>
-
-
-
-

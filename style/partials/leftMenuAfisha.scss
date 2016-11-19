@@ -1,7 +1,7 @@
 aside {
 	float: left;
 	width: 250px;
-	
+
 }
 section {
 	margin-left: 280px;
@@ -10,7 +10,7 @@ section {
 .aside-menu li {
 	position:relative;
 	font-weight: 300;
-	list-style-type: square;
+	list-style-type: none;
 	border-top: 1px solid #e5e5e7;
 }
 
@@ -25,7 +25,7 @@ section {
 	color: #29c5e6;
 }
 .aside-menu a:hover {
-    text-decoration:underline
+    text-decoration:underline;
 }
 .aside-menu a {
 	color: #8f8f8f;

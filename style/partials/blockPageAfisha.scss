@@ -4,8 +4,6 @@
     width:80%;
     min-height:300px;
     text-overflow:ellipsis;
-    box-shadow:3px 3px 6px 0 rgba(140,140,140,1);
-    border:1px solid rgba(140,140,140,1);
     margin:15px 0 0 5px;
     padding:10px;
     border-radius:4px;
@@ -16,7 +14,7 @@
     height:300px;
     float:left;
     margin:5px;
-   
+
 }
 .spravkaAfisha{
 	color:#000;
@@ -47,7 +45,7 @@
 .tel{
 	background:url(/imges/afisha.png) no-repeat -48px 0;
 }
-.contentAfishaBlock{    
+.contentAfishaBlock{
     padding:5px;
     display:inline-block;
     overflow-x: hidden;
